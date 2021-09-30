@@ -1,0 +1,1262 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) & !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>
+A Fistful Of Euros | European Opinion	</title>
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://fistfulofeuros.net/wordpress/wp-content/themes/twentyeleven/style.css?ver=20190507" />
+<link rel="pingback" href="http://fistfulofeuros.net/wordpress/xmlrpc.php">
+<!--[if lt IE 9]>
+<script src="http://fistfulofeuros.net/wordpress/wp-content/themes/twentyeleven/js/html5.js?ver=3.7.0" type="text/javascript"></script>
+<![endif]-->
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="A Fistful Of Euros &raquo; Feed" href="http://fistfulofeuros.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="A Fistful Of Euros &raquo; Comments Feed" href="http://fistfulofeuros.net/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/fistfulofeuros.net\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://fistfulofeuros.net/wordpress/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+#start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}
+</style>
+<link rel='stylesheet' id='twentyeleven-block-style-css'  href='http://fistfulofeuros.net/wordpress/wp-content/themes/twentyeleven/blocks.css?ver=20190102' type='text/css' media='all' />
+<link rel='stylesheet' id='lightboxStyle-css'  href='http://fistfulofeuros.net/wordpress/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.min.css?ver=2.7.2' type='text/css' media='screen' />
+<script type='text/javascript' src='http://fistfulofeuros.net/wordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://fistfulofeuros.net/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="http://fistfulofeuros.net/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://fistfulofeuros.net/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://fistfulofeuros.net/wordpress/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.1" />
+	<style>
+		/* Link color */
+		a,
+		#site-title a:focus,
+		#site-title a:hover,
+		#site-title a:active,
+		.entry-title a:hover,
+		.entry-title a:focus,
+		.entry-title a:active,
+		.widget_twentyeleven_ephemera .comments-link a:hover,
+		section.recent-posts .other-recent-posts a[rel="bookmark"]:hover,
+		section.recent-posts .other-recent-posts .comments-link a:hover,
+		.format-image footer.entry-meta a:hover,
+		#site-generator a:hover {
+			color: #1b8de0;
+		}
+		section.recent-posts .other-recent-posts .comments-link a:hover {
+			border-color: #1b8de0;
+		}
+		article.feature-image.small .entry-summary p a:hover,
+		.entry-header .comments-link a:hover,
+		.entry-header .comments-link a:focus,
+		.entry-header .comments-link a:active,
+		.feature-slider a.active {
+			background-color: #1b8de0;
+		}
+	</style>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style type="text/css" id="twentyeleven-header-css">
+				#site-title a,
+		#site-description {
+			color: #070f01;
+		}
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #fbe074; }
+</style>
+	</head>
+
+<body class="home blog custom-background wp-embed-responsive two-column right-sidebar">
+<div class="skip-link"><a class="assistive-text" href="#content">Skip to primary content</a></div><div class="skip-link"><a class="assistive-text" href="#secondary">Skip to secondary content</a></div><div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://fistfulofeuros.net/" rel="home">A Fistful Of Euros</a></span></h1>
+				<h2 id="site-description">European Opinion</h2>
+			</hgroup>
+
+						<a href="http://fistfulofeuros.net/">
+									<img src="http://fistfulofeuros.net/wordpress/wp-content/themes/twentyeleven/images/headers/wheel.jpg" width="1000" height="288" alt="A Fistful Of Euros" />
+								</a>
+			
+									<form method="get" id="searchform" action="http://fistfulofeuros.net/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+				<div class="menu-main_menu-container"><ul id="menu-main_menu" class="menu"><li id="menu-item-9417" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9417"><a href="http://fistfulofeuros.net/afoe/category/afoe/culture/">Culture</a></li>
+<li id="menu-item-9419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9419"><a href="http://fistfulofeuros.net/afoe/category/afoe/economics-and-demography/">Economics and demography</a></li>
+<li id="menu-item-9420" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9420"><a href="http://fistfulofeuros.net/afoe/category/afoe/economics-country-briefings/">Economics: Country briefings</a></li>
+<li id="menu-item-9421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9421"><a href="http://fistfulofeuros.net/afoe/category/afoe/currencies/">Economics: Currencies</a></li>
+<li id="menu-item-9423" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9423"><a href="http://fistfulofeuros.net/afoe/category/afoe/europe-and-the-world/">Europe and the world</a></li>
+<li id="menu-item-9427" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9427"><a href="http://fistfulofeuros.net/afoe/category/afoe/governments-and-parties/">Governments and parties</a></li>
+<li id="menu-item-9429" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9429"><a href="http://fistfulofeuros.net/afoe/category/afoe/life/">Life</a></li>
+<li id="menu-item-9432" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9432"><a href="http://fistfulofeuros.net/afoe/category/afoe/not-europe/">Not Europe</a></li>
+<li id="menu-item-9433" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9433"><a href="http://fistfulofeuros.net/afoe/category/afoe/political-issues/">Political issues</a></li>
+<li id="menu-item-9437" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9437"><a href="http://fistfulofeuros.net/afoe/category/afoe/the-european-union/">The European Union</a></li>
+<li id="menu-item-9499" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9499"><a href="http://fistfulofeuros.net/afoe/category/afoe/history/">History</a></li>
+</ul></div>			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+
+		<div id="primary">
+			<div id="content" role="main">
+
+			
+							<nav id="nav-above">
+				<h3 class="assistive-text">Post navigation</h3>
+				<div class="nav-previous"><a href="http://fistfulofeuros.net/page/2/" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+				<div class="nav-next"></div>
+			</nav><!-- #nav-above -->
+			
+				
+					
+	<article id="post-11435" class="post-11435 post type-post status-publish format-standard hentry category-afoe">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://fistfulofeuros.net/afoe/german-elections-roundup/" rel="bookmark">German Elections: Roundup</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://fistfulofeuros.net/afoe/german-elections-roundup/" title="2:31 pm" rel="bookmark"><time class="entry-date" datetime="2021-09-20T14:31:58+00:00">September 20, 2021</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://fistfulofeuros.net/afoe/author/alex-harrowell/" title="View all posts by Alex Harrowell" rel="author">Alex Harrowell</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://fistfulofeuros.net/afoe/german-elections-roundup/#comments">1</a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Clearing out the link trap.</p>
+<p>If the CDU&#8217;s results are anything like the polls, <a href="https://m.tagesspiegel.de/berlin/kramp-karrenbauer-altmaier-kloeckner-und-co-prominente-cdu-politiker-muessen-um-direktmandate-bangen/27625776.html">its leadership is going to be cleared out</a> willy nilly, with numerous top politicians losing their coveted direct mandate parliamentary seats. The classic pol&#8217;s solution to this problem is to have your party put you near the top of the proportional list section of the ballot &#8211; if you don&#8217;t win your direct mandate you&#8217;ll probably get in as a list candidate, and although direct mandates trump, if you do win one of your party colleagues will just &#8220;nachrücken&#8221; and move up the list one spot. However, Armin Laschet&#8217;s personal numbers are so dreadful even being the no.1 on the CDU list <a href="https://www.berliner-zeitung.de/wochenende/prognose-armin-laschet-verpasst-einzug-in-den-bundestag-li.178584?pid=true">might not save him</a>.</p>
+<p>Wolfgang Schäuble probably won&#8217;t need that &#8211; his lead in his own patch is over thirty percentage points &#8211; but <a href="https://www.sueddeutsche.de/politik/bundestagswahl-wolfgang-schaeubles-ungewisse-zukunft-1.5408228!amp?utm_source=Twitter&#038;utm_medium=twitterbot&#038;utm_campaign=1.5408228&#038;__twitter_impression=true">he might not last as speaker of the Bundestag</a>, seeing as the CDU isn&#8217;t going to be a majority, the CSU is deeply bitter at him about Laschet&#8217;s nomination, and people are angry he hasn&#8217;t condemned Hans-George Maaßen enough. Maaßen himself looks likely to be a problem that solves itself, by losing.</p>
+<p>The <a href="https://www.sueddeutsche.de/politik/fdp-lindner-bundestagswahl-ampel-jamaika-1.5412698!amp?utm_campaign=1.5412698&#038;utm_medium=twitterbot&#038;utm_source=Twitter">FDP</a> is trying very hard to condemn things while also not actually ruling out any coalition option, even one with Laschet as chancellor and the CDU isn&#8217;t the biggest party. With the Left party on 6%, though, the FDP&#8217;s chances of being in the coalition are strong pretty much whatever they say.</p>
+<p>The distinction between the direct and list candidates always leads to interesting shenanigans. If a party overperforms, not only does it need extra list candidates to get its proportional whack, it also needs to fill the slots that went to direct candidates. <a href="https://www.sueddeutsche.de/politik/bundestagswahl-wahlrecht-spd-nrw-wahlrechtsreform-1.5408739!amp?reduced=true&#038;utm_source=Twitter&#038;utm_medium=twitterbot&#038;utm_campaign=1.5408739&#038;__twitter_impression=true">This guy</a> is 60th on a SPD regional list but is now unexpectedly faced with power. There will be quite a few like him; the workings of the electoral system mean that the size of the Bundestag varies with the relationship between direct and list candidates, and this year promises to take it well over the current 709 MPs, already a record.</p>
+<p>The Greens had a party conference with a week to go and it was awkward, <a href="https://www.tagesspiegel.de/politik/parteitag-eine-woche-vor-der-bundestagswahl-gruene-zwischen-durchhalteparolen-und-versteckter-selbstkritik/27627310.html">as Robert Habeck could only just restrain himself from saying he should have been the candidate</a>. Fortunately the coalition-making process will probably put off the night of the long cargo bikes reckoning for quite a while.</p>
+<p>Here&#8217;s a look round the odds and sods. <a href="https://www.sueddeutsche.de/politik/bundestagswahl-kleinparteien-gefahr-fuer-etablierte-1.5413828!amp?utm_source=Twitter&#038;utm_medium=twitterbot&#038;utm_campaign=1.5413828&#038;__twitter_impression=true">47 parties are taking part</a> this year, down to the Gardeners&#8217; Party, the Party for a Humane World, and The Base. This is mostly important because the more votes that go to parties that fail to get the necessary 5% or two direct seats, the fewer you need to be a majority in the Bundestag. The biggest and really the only one likely to come close is the Independent Voters. This will be most familiar to AFOE readers as the CSU&#8217;s Mini-Me coalition partner in Bavaria, but it&#8217;s had a weird pandemic, morphing into an antivax protest group and winning state-level seats outside Bavaria for the first time. Polls put it at 2-4% nationally, but at least on the regional level, the CSU has found it necessary to call it out by name. The Base, meanwhile, is a frankly disturbing collection of virus quacks, Holocaust deniers, and a celebrity hatter practising as a lawyer under a false name, and I have questions as to why it chose a name that&#8217;s a literal translation of &#8220;Al-Qa&#8217;ida&#8221;, although its leader is almost certainly wrong in predicting it will get 20 per cent of the vote.</p>
+<p>YouTube star <a href="https://m.tagesspiegel.de/politik/abrechnung-mit-maskendeals-und-cum-ex-affaere-rezo-veroeffentlicht-finales-zerstoerungsvideo/27625972.html">Rezo</a> issued his final pre-election rant, denouncing all parties as corrupt and encouraging viewers to vote &#8211; presumably for the gardeners or someone? He does seem to be the only actor in the election to mention the whole thing where ice-cream king August von Finck just paid for the whole opposition to doing anything about the Eurozone crisis, <a href="http://fistfulofeuros.net/afoe/fin-de-regne-an-outbreak-of-small-and-medium-sized-scandals/">other than me</a>.</p>
+<p>Candidates are <a href="https://interaktiv.tagesspiegel.de/lab/bundestagswahl-2021-die-kandidaten-der-parteien-im-vergleich-zur-bevoelkerung-berufsgruppen-geschlecht-altersverteilung/">older, richer, and more likely to be men</a> than Germans in general, which isn&#8217;t much of a surprise.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+										<span class="cat-links">
+					<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://fistfulofeuros.net/afoe/category/afoe/" rel="category tag">A Fistful Of Euros</a>			</span>
+							
+										
+										<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://fistfulofeuros.net/afoe/german-elections-roundup/#comments"><b>1</b> Reply</a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-11435 -->
+
+				
+					
+	<article id="post-11430" class="post-11430 post type-post status-publish format-standard hentry category-afoe category-germany">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://fistfulofeuros.net/afoe/geschlossenheit/" rel="bookmark">Geschlossenheit</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://fistfulofeuros.net/afoe/geschlossenheit/" title="4:12 pm" rel="bookmark"><time class="entry-date" datetime="2021-09-19T16:12:10+00:00">September 19, 2021</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://fistfulofeuros.net/afoe/author/alex-harrowell/" title="View all posts by Alex Harrowell" rel="author">Alex Harrowell</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://fistfulofeuros.net/afoe/geschlossenheit/#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>So we blogged about <a href="http://fistfulofeuros.net/afoe/sommerloch-ade-what-happened-in-germany-since-our-last-episode/">the CDU&#8217;s successful blitz on the Greens, and Armin Laschet&#8217;s subsequent no good very bad campaign</a>. We talked about Laschet&#8217;s team for the future, now with added Friedrich Merz, and what was becoming of <a href="http://fistfulofeuros.net/afoe/zukunftsteam-the-future-of-the-merkel-coalition/">the political constituency Angela Merkel put together</a>. It&#8217;s probably time to deal with the Social Democrats and their sudden surge into the lead. After all, even if the 2017 Martin Schulz spike reversed very quickly and the Green rocket came back down like the proverbial stick, the SPD is <a href="https://www.wahlrecht.de/umfragen/">holding a lead of between three and six points</a> into the final week, so if anything&#8217;s going to reverse it better do it sharpish.</p>
+<p>A lot of commentary about the SPD uses the concept of &#8220;PASOKification&#8221;, the idea that Western social democratic parties are all doomed due to their compromises with neoliberalism. You can see where they&#8217;re coming from &#8211; at least you could when they weren&#8217;t No.1 &#8211; but the concept is a huge stretch. To state the glaringly obvious, Germany&#8217;s experience across the Merkel era was not very much like Greece&#8217;s. The comparison is positively offensive. And the SPD was in government for quite a lot of it. The party&#8217;s membership has halved since 1990, but it&#8217;s worth noting that it lost <a href="https://de.statista.com/statistik/daten/studie/1214/umfrage/mitgliederentwicklung-der-spd-seit-1978/">almost as many members in opposition as it did in government</a>, and the count has levelled off since 2015 around 400,000, a little more than the CDU. In terms of its share of vote, <a href="https://www.bundestagswahl-2021.de/spd/">the thesis holds up a bit better</a> &#8211; the first grand coalition, 2005-2009, hurt much more than anything else. This ignores the regional level entirely, though. Throughout this period the party has routinely led state governments and realized shares of the vote as high as 40%. They&#8217;re not back because they never went away.</p>
+<p>The bigger problem with this argument is the decline of the CDU and indeed the CSU. Germany, the country of the small and medium-sized business, has developed a system of small and medium-sized parties. The CDU/CSU polled 40% as recently as 2015, came close to that during its pandemic bounce, but is now struggling to keep above the 20% mark while the Greens try to establish themselves over it. The CSU&#8217;s own special powerbase in Bavaria is again under serious threat. </p>
+<p>This is the kind of party landscape you might expect in a country with a strongly federal, parliamentary, and proportional constitution reflecting strong particularist local traditions, and of course, those things are all true of Germany, being major features of the 1949 constitution (<em>constitutions</em>, thinking of the states) and really of its deeper history. Politics as it is practised, though, often doesn&#8217;t look much like that. Instead, in most German campaigns until now, there were two big parties of which it was expected one would win, quite possibly taking over 40 per cent of the vote, just like Conservatives and Labour or Democrats and Republicans. Coalitions were common, but they either took the form of a dominant party plus a small party, or else of a grand coalition of the big two. Campaigns focused on the party leaders as if they were electing a president, although only the relatively few voters in each party leader&#8217;s patch would actually have them on the ballot.</p>
+<p>This phenomenon is common in parliamentary systems &#8211; the practicalities of mass communication and campaigning tend to make for a presidential style, and so does the brute fact that the point of the election is to choose who rules &#8211; but the contradiction is more marked given how far the founders of 1949 went to design anything but a presidential two-party system.  A lot of this is related to the way political techniques like opinion polling, TV interviews, and public relations spin-doctoring were introduced from the West in the post-war years in parallel with the construction of the formal institutions. So one way of looking at the German political scene is that voter, and party, behaviour is converging with the way the constitution works. A top-three party share of 60% sounds a lot more like you&#8217;d expect in a country with Germany&#8217;s constitution than a top-two share of 80%. </p>
+<p>A party that aims to poll over 40% must be a broad coalition in itself. At 20%, though, faction is an unaffordable luxury. This shift is likely to put a premium on internal unity, and to shift the coalition-making process from within the major parties to the post-election phase. Ironically, the need to turn out the party base in order to have a chance at the No.1 slot and hence to lead the post-election phase is likely to make the parties try harder to emphasize their distinctive identities and hence their differences, which is then likely to make the coalition phase harder or at least more dramatic. (I think this is what Adam Tooze is driving at <a href="https://foreignpolicy.com/2021/09/17/merkel-germany-election-scholz-laschet-fdp-linke-ideologies/">here</a>?)</p>
+<p>The SPD&#8217;s strength here is that it has managed to be much more compact and united &#8211; <em>geschlossen</em> in German &#8211; behind Olaf Scholz than any of the other parties. Here&#8217;s a poll of preferences for chancellor by party identification:</p>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">Striking detail: voters of the <a href="https://twitter.com/hashtag/FDP?src=hash&amp;ref_src=twsrc%5Etfw">#FDP</a> (!) want Scholz rather than <a href="https://twitter.com/hashtag/Laschet?src=hash&amp;ref_src=twsrc%5Etfw">#Laschet</a>. Even among CDU-voters, Scholz is a close second. <a href="https://t.co/VzkrVNnXX6">pic.twitter.com/VzkrVNnXX6</a></p>
+<p>&mdash; Christian Odendahl (@COdendahl) <a href="https://twitter.com/COdendahl/status/1428659626040602626?ref_src=twsrc%5Etfw">August 20, 2021</a></p></blockquote>
+<p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </p>
+<p>Not only would a third of conservatives and half the Left take Scholz, more FDP voters would take him <em>than their own candidate</em>. Meanwhile, 84 per cent of SPD voters are sticking with their guy. And the secret is pretty simple, if not easy to implement. Although Scholz is literally Merkel&#8217;s finance minister, his response to losing an internal party election to the enragé left was to stick with the style (as someone quoted here <a href="https://www.rnd.de/politik/olaf-scholz-die-unglaubliche-geschichte-des-spd-kanzlerkandidaten-6RZ2MW2IZFCOJEAO3EZDC7CFSA.html">says</a>, Scholz may have the charm of a paperclip, but in Germany that can be a good thing) but <a href="https://www.newstatesman.com/german-election-2021/2021/09/how-olaf-scholz-and-the-spd-could-lead-germanys-next-government">load up the policy agenda</a>.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+										<span class="cat-links">
+					<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://fistfulofeuros.net/afoe/category/afoe/" rel="category tag">A Fistful Of Euros</a>, <a href="http://fistfulofeuros.net/afoe/category/afoe/germany/" rel="category tag">Germany</a>			</span>
+							
+										
+										<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://fistfulofeuros.net/afoe/geschlossenheit/#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-11430 -->
+
+				
+					
+	<article id="post-11422" class="post-11422 post type-post status-publish format-standard hentry category-afoe category-germany">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://fistfulofeuros.net/afoe/zukunftsteam-the-future-of-the-merkel-coalition/" rel="bookmark">Zukunftsteam: the future of the Merkel coalition</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://fistfulofeuros.net/afoe/zukunftsteam-the-future-of-the-merkel-coalition/" title="6:54 pm" rel="bookmark"><time class="entry-date" datetime="2021-09-12T18:54:36+00:00">September 12, 2021</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://fistfulofeuros.net/afoe/author/alex-harrowell/" title="View all posts by Alex Harrowell" rel="author">Alex Harrowell</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Under increasing pressure from his own party and his own <a href="http://fistfulofeuros.net/afoe/sommerloch-ade-what-happened-in-germany-since-our-last-episode/">terrible campaign</a>, CDU candidate Armin Laschet decided to include more faces in his campaign and present a &#8220;team for the future&#8221;. Not surprisingly, the execution wasn&#8217;t great. </p>
+<p><a href="http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/laschet_team.jpg"><img loading="lazy" src="http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/laschet_team.jpg" alt="" width="2048" height="806" class="aligncenter size-full wp-image-11423" srcset="http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/laschet_team.jpg 2048w, http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/laschet_team-300x118.jpg 300w, http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/laschet_team-1024x403.jpg 1024w, http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/laschet_team-768x302.jpg 768w, http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/laschet_team-1536x605.jpg 1536w, http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/laschet_team-500x197.jpg 500w" sizes="(max-width: 2048px) 100vw, 2048px" /></a></p>
+<p>The mise en scéne left him standing alone on stage for long, awkward gaps between each one, the status of the team is completely unclear, and its composition included an odd combination of apparently promising second line politicians from the states and, ah, Friedrich Merz. This points to deeper, structural issues. For a start, if the idea was to show that the CDU has a deep bench of talent, what was 66-year old Merz who&#8217;s been a politician since Dad was a lad doing there? Is it just that his notoriously enormous ego won&#8217;t let him pass up publicity of any kind? If so, is it just that Laschet is too weak to say no to him? </p>
+<p>If they&#8217;re meant to be a shadow cabinet, there are other problems. For a start, Laschet is only going to make it as part of a coalition, and probably a three-party coalition, so he can&#8217;t really promise individual jobs. And there are, of course, perfectly good CDU federal ministers currently in office. Promoting anyone for a specific job that&#8217;s already held by a CDU minister amounts to promising to fire the incumbent and disavow everything they did.</p>
+<p>Here&#8217;s the rub. The biggest issue for the CDU at this election has been whether to own the Merkel legacy or distance the party from it. The choice of candidate revolved around whether to go with a wholehearted candidate of continuity (Norbert Röttgen, or perhaps the post-2017 version of Markus Söder) or a clean break (Merz). The party of compromise decided to compromise and that&#8217;s how we got here. </p>
+<p>The problem, really, is that Merkel created a new political coalition, on which her success is founded. </p>
+<p>This coalition runs diagonally, as the Germans say, across politics including a chunk of the SPD&#8217;s traditional voting bloc and mobilizing women, immigrants, and non-Catholics, groups with whom the CDU usually struggles. I wrote about this <a href="fistfulofeuros.net/afoe/merkels-diagonal-politics-and-the-green-revival/">here</a>, arguing among other things that the coalition&#8217;s organizing principle was that it set its own European or global outlook against nationalists or even local particularists. Diagonal coalitions in Germany go back to Bismarck, and the importance of particularism much earlier, but despite this transformation of the CDU electorate, there was no such transformation of the CDU as a party. <a href="http://fistfulofeuros.net/afoe/superwahljahr-k-frage/">The three candidates for the succession, all men, all Catholics, and all lawyers, all came from a 90km triangle in in the northern Rheinland</a>.</p>
+<p>Keeping this coalition together requires owning the Merkel legacy, which shouldn&#8217;t be that hard. Albert Funk writes that <a href="https://m.tagesspiegel.de/politik/zwischen-aufbruch-und-verzweiflung-das-zukunftsteam-loest-laschets-problem-nicht/27577698.html">the team</a> showed the CDU as Merkel left it &#8211; more liberal, more diverse, and more open to the world. The problem, though, is that the party is unwilling to fully own this even though it remains popular. To take the limiting case and the one Merkel initiative everyone asks you about, 62% of Germans think the country will cope just fine with another wave of refugees:</p>
+<p><a href="https://de.statista.com/statistik/daten/studie/1102232/umfrage/umfrage-zur-erneut-vermehrten-aufnahme-von-fluechtlingen-in-deutschland/" rel="nofollow"><img src="https://de.statista.com/graphic/1/1102232/umfrage-zur-erneut-vermehrten-aufnahme-von-fluechtlingen-in-deutschland.jpg" alt="Statistik: Wenn wieder deutlich mehr Flüchtlinge kommen: Kann Deutschland das verkraften? (Anteil der Zustimmenden; nach Parteipräferenz) | Statista" style="width: 100%; height: auto !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a><br />Mehr Statistiken finden Sie bei  <a href="https://de.statista.com" rel="nofollow">Statista</a></p>
+<p>And if you&#8217;re in the Merkel coalition, there&#8217;s an obvious choice. The SPD was often criticised for being too close to the coalition, but with Merkel gone and the CDU unclear about whether it really believes in what it&#8217;s been doing since 2005, that logic now cuts both ways. The coalition exists, and you can run towards it!</p>
+<blockquote class="twitter-tweet">
+<p lang="de" dir="ltr">BUNDESTAGSWAHL | Sonntagsfrage INSA/BILD am Sonntag</p>
+<p>SPD: 26% (+1)<br />Union: 20%<br />GRÜNE: 15% (-1)<br />FDP: 13%<br />AfD: 11% (-1)<br />LINKE: 6% (-1)<br />Sonstige: 9% (+2)</p>
+<p>Änderungen zur letzten Umfrage vom 04. September 2021</p>
+<p>Verlauf: <a href="https://t.co/hsxgiA6QD4">https://t.co/hsxgiA6QD4</a><a href="https://twitter.com/hashtag/btw?src=hash&amp;ref_src=twsrc%5Etfw">#btw</a> <a href="https://twitter.com/hashtag/btw21?src=hash&amp;ref_src=twsrc%5Etfw">#btw21</a> <a href="https://twitter.com/hashtag/BTWahl2021?src=hash&amp;ref_src=twsrc%5Etfw">#BTWahl2021</a> <a href="https://t.co/aimeS3iTmM">pic.twitter.com/aimeS3iTmM</a></p>
+<p>&mdash; Deutschland Wählt (@Wahlen_DE) <a href="https://twitter.com/Wahlen_DE/status/1436770642603487238?ref_src=twsrc%5Etfw">September 11, 2021</a></p></blockquote>
+<p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+										<span class="cat-links">
+					<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://fistfulofeuros.net/afoe/category/afoe/" rel="category tag">A Fistful Of Euros</a>, <a href="http://fistfulofeuros.net/afoe/category/afoe/germany/" rel="category tag">Germany</a>			</span>
+							
+										
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-11422 -->
+
+				
+					
+	<article id="post-11415" class="post-11415 post type-post status-publish format-standard hentry category-afoe category-germany">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://fistfulofeuros.net/afoe/sommerloch-ade-what-happened-in-germany-since-our-last-episode/" rel="bookmark">Sommerloch ade: what happened in Germany since our last episode</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://fistfulofeuros.net/afoe/sommerloch-ade-what-happened-in-germany-since-our-last-episode/" title="6:02 pm" rel="bookmark"><time class="entry-date" datetime="2021-09-12T18:02:36+00:00">September 12, 2021</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://fistfulofeuros.net/afoe/author/alex-harrowell/" title="View all posts by Alex Harrowell" rel="author">Alex Harrowell</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>We left the German election campaign with the <a href="http://fistfulofeuros.net/afoe/superwahljahr-roundup/">Greens in the lead</a> under <a href="http://fistfulofeuros.net/afoe/superwahljahr-green-leader/">Annalena Baerbock</a>, an outbreak of <a href="http://fistfulofeuros.net/afoe/fin-de-regne-an-outbreak-of-small-and-medium-sized-scandals/">small and medium-sized scandals</a>, and Armin Laschet <a href="http://fistfulofeuros.net/afoe/superwahljahr-the-k-frage-is-definitely-maybe-resolved/">ambiguously triumphant as CDU/CSU candidate</a>. Over the silly season, the so-called <em>Sommerloch</em>, stuff happened.</p>
+<p>Here&#8217;s some polling for the last 7 years from <em>Der Tagesspiegel</em>&#8216;s <a href="https://interaktiv.tagesspiegel.de/lab/bundestagswahl-2021-umfragen-koalitionen/">aggregator</a>. You can see the slow decline of both major parties, the SPD&#8217;s 2017 false dawn, the rise of the Greens, and the pandemic reset. You can also see the CDU/CSU&#8217;s crisis in the spring as the pandemic boost wore off and the Greens spiked, and then its reset.</p>
+<p><a href="http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/german_polls.png"><img loading="lazy" src="http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/german_polls.png" alt="" width="872" height="509" class="aligncenter size-full wp-image-11416" srcset="http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/german_polls.png 872w, http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/german_polls-300x175.png 300w, http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/german_polls-768x448.png 768w, http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/german_polls-500x292.png 500w" sizes="(max-width: 872px) 100vw, 872px" /></a></p>
+<p>A sommerloch is defined by the absence of serious content, and that was how it started. The CDU/CSU campaign management responded to the Green breakthrough by shaking out everything they had in their opposition research file. That turned out to mean getting very angry about Annalena Baerbock&#8217;s CV, which was inaccurate in places on trivialities, and claiming that not all of her insta-book (a campaign essential, one of the American tropes imported into German political practice) was wholly original. Some of this was risible &#8211; one of the quotes in question was a list of the EU&#8217;s member states, not the sort of thing where originality is usually prized, while a lot turned on insinuating that a master&#8217;s degree from LSE was somehow not real &#8211; and some of it wasn&#8217;t, but the main point was that it was at least something. Following politics in a foreign language can provide a kind of <em>Verfremdungseffekt</em> where the half-truths are more glaring and the vacuity of the talking points more obvious, and it was very clear that the CDU management had an option set up to do a bit of dirty and now they were pressing the button.</p>
+<p>There was some blowback &#8211; it turned out Armin Laschet&#8217;s own campaign book wasn&#8217;t any better &#8211; but the CDU also had a big ad drop set up complaining about &#8220;Anna and the 10 Bans&#8221; (<em>Verbote</em> &#8211; similar to <em>Gebote</em> or commandments) and its outriders were ready to start complaining about cargo bikes (this is a culture war thing for some reason). Some people speculated about swapping Robert Habeck back in as candidate (see this <a href="https://taz.de/Gescheiterte-Gruenen-Kanzlerkandidatin/!5784037/">savage TAZ piece</a>), but the Greens chose to tough it out. The CDU&#8217;s blitz worked, up to a point, knocking the Greens back to around 18 per cent and briefly reversing the CDU&#8217;s descent.</p>
+<p>And then there were events. </p>
+<p>Germany experienced a major flood disaster &#8211; mostly around areas with old mine workings that could fill up and fail, a telling reminder of the country&#8217;s relationship with coal &#8211; the Taliban conquered Kabul, and there were some more small and medium-sized scandals. Laschet, meanwhile, launched an astonishing series of campaigning disasters. First up, he was caught on camera laughing uncontrollably as President Steinmeier conveyed the nation&#8217;s condolences to the flooded. Then he spoke to one of them, in pouring rain, as a underling held an umbrella over Laschet&#8217;s head but pointedly not the flood victim&#8217;s. Going for the hat-trick, Laschet then delivered a major speech in front of a gigantic and unavoidably symbolic pile of rubbish. Not satisfied with that, he challenged his rivals to an &#8220;inhaltliches Wahlkampf&#8221;, a campaign over content, and followed up by announcing a three point plan for Germany&#8217;s future consisting of digital, less bureaucracy, and&#8230;what was the other one? The whole performance was powerfully reminiscent of Theresa May&#8217;s 2017 party conference speech with its coughing fit, irrepressible heckler, and that sign that lost a letter until it announced a country that orked for everyone. It&#8217;s probably worth taking a moment to appreciate the visual side of this, as it was precisely the visual quality of the thing that bit so hard. Images are from the round-up <a href="https://www.tagesspiegel.de/politik/vom-regen-in-die-traufe-die-sieben-patzer-des-armin-laschet/27534560.html">here</a>.</p>
+<p>So, the laugh:</p>
+<blockquote class="twitter-tweet">
+<p lang="und" dir="ltr">aha. <a href="https://t.co/XA6rC3uXII">pic.twitter.com/XA6rC3uXII</a></p>
+<p>&mdash; toto (@josefheynckes) <a href="https://twitter.com/josefheynckes/status/1416401177680531456?ref_src=twsrc%5Etfw">July 17, 2021</a></p></blockquote>
+<p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </p>
+<p>The brolly (is it even possible to use one with dignity?):</p>
+<p><a href="http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/laschet_ran.jpg"><img loading="lazy" src="http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/laschet_ran.jpg" alt="" width="565" height="318" class="aligncenter size-full wp-image-11417" srcset="http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/laschet_ran.jpg 565w, http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/laschet_ran-300x169.jpg 300w, http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/laschet_ran-500x281.jpg 500w" sizes="(max-width: 565px) 100vw, 565px" /></a></p>
+<p>The rubbish (if it wasn&#8217;t everywhere):</p>
+<p><a href="http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/laschet_rubbish.jpg"><img loading="lazy" src="http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/laschet_rubbish.jpg" alt="" width="565" height="318" class="aligncenter size-full wp-image-11418" srcset="http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/laschet_rubbish.jpg 565w, http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/laschet_rubbish-300x169.jpg 300w, http://fistfulofeuros.net/wordpress/wp-content/uploads/2021/09/laschet_rubbish-500x281.jpg 500w" sizes="(max-width: 565px) 100vw, 565px" /></a></p>
+<p>The three-point plan:</p>
+<blockquote class="twitter-tweet">
+<p lang="de" dir="ltr">Laschet forderte kürzlich eine stärkere &quot;inhaltliche Auseinandersetzung&quot; im Wahlkampf. Nach Inhalten gefragt, fallen ihm allerdings erstaunlich wenige ein (Quelle: <a href="https://t.co/7gNGClfct3">https://t.co/7gNGClfct3</a>): <a href="https://t.co/qI08SCMRKy">pic.twitter.com/qI08SCMRKy</a></p>
+<p>&mdash; Johannes Hillje (@JHillje) <a href="https://twitter.com/JHillje/status/1428357203484766224?ref_src=twsrc%5Etfw">August 19, 2021</a></p></blockquote>
+<p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>You might object that this is mere froth, but then that&#8217;s what a sommerloch is like. Further, if Laschet wanted a campaign about content, he could have damn well come up with some. In a genuinely important sense, the campaign has been dominated by CDU/CSU internal backstabbing, whether or not MLA or APA citation rules apply to a general-audience book, and Laschet&#8217;s inability to carry out a simple photocall without humiliating himself precisely because he&#8217;s offered so little either in terms of policy or personality. </p>
+<p>And even the consummately well-executed blitz campaign against the Greens should be seen as part of the same phenomenon. Raking out the bottom of the oppo-research drawer won the CDU some political space and headed off the immediate crisis, but at the end of the day it was far from the worst allegation an oppo-research team has ever come up with and Laschet did nothing to follow up. Further, the smear dump could be done once, and once only. You can&#8217;t unring a bell, but neither can you redrop a bomb, and once the bomb bay was empty there were still three months to go until polling day. In hindsight, it looks like they acted out of panic and wasted a move better used in the last week before the polls closed, which doesn&#8217;t say anything good about Laschet. </p>
+<p><em>Although, neither does <a href="https://www.rwth-aachen.de/go/id/ihji">that time he taught a course at the Rhein-Westfalen Technical University, lost the grades, made them up, made up more grades than he had students, and lied about it repeatedly to the university&#8217;s increasingly sarcastic administrators</a>. Maybe German politicians should just keep away from universities.</em></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+										<span class="cat-links">
+					<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://fistfulofeuros.net/afoe/category/afoe/" rel="category tag">A Fistful Of Euros</a>, <a href="http://fistfulofeuros.net/afoe/category/afoe/germany/" rel="category tag">Germany</a>			</span>
+							
+										
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-11415 -->
+
+				
+					
+	<article id="post-11367" class="post-11367 post type-post status-publish format-standard hentry category-afoe">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://fistfulofeuros.net/afoe/superwahljahr-roundup/" rel="bookmark">Superwahljahr Roundup</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://fistfulofeuros.net/afoe/superwahljahr-roundup/" title="12:16 pm" rel="bookmark"><time class="entry-date" datetime="2021-05-16T12:16:01+00:00">May 16, 2021</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://fistfulofeuros.net/afoe/author/alex-harrowell/" title="View all posts by Alex Harrowell" rel="author">Alex Harrowell</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>So, our <a href="http://fistfulofeuros.net/afoe/superwahljahr-green-leader/">previous instalment</a> saw the Greens surging into first place as Annalena Baerbock was installed without fuss as the candidate and the CDU/CSU ripped itself apart. They&#8217;re <a href="https://www.tagesspiegel.de/politik/politbarometer-umfrage-gruene-staerkste-kraft-aber-mehrheit-fuer-unionsgefuehrte-regierung/27169098.html">still in the lead</a>, but the Greens have since had some minor but characteristic setbacks lately.</p>
+<p>For a start, there&#8217;s Boris Palmer, the mayor of Tübingen, who&#8217;s in the national press for being tiresomely controversial most weeks. Palmer specializes in being a Green but also doing a bit of populist; this might have been an interesting plan a few years ago but has turned out to be a bit of a blind alley. This time, he&#8217;s really screwed up badly, by wading into a <a href="https://www.tagesspiegel.de/politik/palmer-rechtfertigt-rassistischen-kommentar-ich-habe-dennis-aogo-in-schutz-genommen/27172542.html">truly asinine spat between two footballers</a> and as a result posting the German equivalent of the n-word on his Facebook page. There&#8217;s probably an interesting question of translation as to whether it really is the German equivalent &#8211; both Nazis, and German rappers, use the English original when they want maximum rhetorical escalation &#8211; but an election campaign of all things isn&#8217;t the time or the place for it, and in any case Palmer didn&#8217;t do anything of the sort but went right for the shitpost, following up by some truly cringey efforts to defend himself or half-apologize. </p>
+<p>So, Baerbock and Habeck decided to kill the story as rapidly as possible, to say nothing of getting rid of a competitor/troublemaker, and he now faces expulsion from the party. This being Germany &#8211; and this being a political party internal disciplinary process, something that brings back traumatic memories of the Labour Party in 2016-2019 &#8211; that will involve a succession of painful committees starting at the district level and working up.</p>
+<p>Palmer attention-seeking was always on the cards. Something else also on the cards: that the party&#8217;s Berlin regional branch would try its best to really get inside its own stereotype. <a href="https://www.tagesspiegel.de/politik/wort-kann-negativ-assoziiert-werden-300-gruene-wollen-deutschland-aus-dem-wahlprogramm-streichen/27166512.html">300 of them signed a petition</a> to remove the word &#8220;Germany&#8221; from the federal Green manifesto on the grounds that it could have negative associations and in general was kind of cringey (I summarise). As far as I can see, the party leadership has kind of patted them tolerantly on the head while cracking on with a draft climate program, including more solar panels through the planning process, changes to the tax regime for aviation, that kind of stuff. </p>
+<p>Probably they&#8217;ll cause some drama at the party conference, but the Berlin Greens could probably spend their time more effectively reflecting on the epic fiasco with their name on it. The red/red/green coalition&#8217;s ban on rent increases was struck down by the supreme court. For some reason a lot of English-speaking left-wing people think this has do with Wilhelmine or even Nazi legislative survivals, but it doesn&#8217;t at all &#8211; the judgment is <a href="https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/fs20210325_2bvf000120.html">here</a> and surprisingly simple as German constitutional court judgments go. The &#8220;Leitsätze&#8221; or governing principles at the top are really all you need. The division of powers between the states and the feds is defined by the 1949 constitution. Individual issues can be state (like education), federal (like foreign affairs), or mixed (like housing). In the mixed ones, the states have to defer to federal legislation where it already covers the issue in question. The feds legislated to set an upper limit to rent increases in 2015 (SPD minister Heiko Maas&#8217;s &#8220;Mietpreisbremse&#8221;), and therefore, the states can&#8217;t overrule it.</p>
+<p>This is pretty elementary stuff &#8211; as one of the newspapers said, the judgment is a very basic lecture on the structure of the federal state &#8211; so you wonder what the hell the Berlin statehouse coalition thought it was doing, as it&#8217;s resulted in people being billed for tens of thousands of euros in back rent on pain of eviction (<a href="https://www.tagesspiegel.de/berlin/auf-mietendeckel-aus-folgt-kuendigung-berliner-familie-soll-nach-17-jahren-raus-dann-kommt-das-gute-ende/27161018.html">by Bild Zeitung editor Mathias Döpfner&#8217;s buy-to-let vehicle, no less!</a>). Tell me they weren&#8217;t trying to heighten the contradictions by shoving their tenant base under the bus?</p>
+<p><a href="https://www.tagesspiegel.de/politik/schon-jetzt-gibt-es-viele-konflikte-den-gruenen-droht-die-verhausschweinung/27170576.html">This column</a> points out that the party has a tendency to try to be on both sides of important issues in order to hold its internal coalition together, but then, who doesn&#8217;t? Baerbock&#8217;s husband is going to <a href="https://www.tagesspiegel.de/politik/im-dienste-ihrer-kanzlerschaft-baerbocks-mann-wird-bei-wahlsieg-hausmann/27195078.html">look after the kids</a> if she&#8217;s elected.</p>
+<p>Jens Spahn finally published a list of <a href="https://www.tagesspiegel.de/politik/einflussnahme-oder-willkommene-hilfe-wer-beim-maskenkauf-mitmischte-gesundheitsministerium-legt-abgeordnetenliste-vor/27135904.html">politicians who tried to sell him masks</a>. Friedrich Merz <a href="https://zeitung.faz.net/faz/wirtschaft/2021-04-27/608f14ab7e93587cdddfed0b27aef083/?GEPC=s9">made a fool of himself</a> by not knowing what a liquidity trap is, and further by <a href="https://twitter.com/yorksranter/status/1391033157974118403">setting the CSU a target of 40% when the CDU is likely on 17%</a>. There might be quite a serious scandal at <a href="https://www.ft.com/content/ed67bbe5-cabb-47fb-923f-04aec6953727">SAP</a>. The FDP wants <a href="https://www.faz.net/aktuell/politik/inland/fdp-fordert-maximal-zwei-amtszeiten-fuer-kanzler-17343694.html">term limits for the chancellor but obviously not for its MPs, no sir</a>.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+										<span class="cat-links">
+					<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://fistfulofeuros.net/afoe/category/afoe/" rel="category tag">A Fistful Of Euros</a>			</span>
+							
+										
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-11367 -->
+
+				
+					
+	<article id="post-11356" class="post-11356 post type-post status-publish format-standard hentry category-afoe">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://fistfulofeuros.net/afoe/superwahljahr-small-and-mid-sized-scandal-update/" rel="bookmark">Superwahljahr: Small and Mid-Sized Scandal Update</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://fistfulofeuros.net/afoe/superwahljahr-small-and-mid-sized-scandal-update/" title="6:01 pm" rel="bookmark"><time class="entry-date" datetime="2021-04-25T18:01:31+00:00">April 25, 2021</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://fistfulofeuros.net/afoe/author/alex-harrowell/" title="View all posts by Alex Harrowell" rel="author">Alex Harrowell</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Just to update the German scandal outbreak:</p>
+<p>In the CSU masks affair, <a href="https://www.sueddeutsche.de/bayern/maskenaffaere-sauter-csu-vermoegensarrest-1.5267903">key CSU pol Alfred Sauter&#8217;s assets have been frozen</a>.</p>
+<p>The thing about health minister Jens Spahn&#8217;s villa is still going &#8211; <a href="https://m.tagesspiegel.de/politik/gute-bankverbindung-so-konnte-spahn-seine-millionenteure-berliner-villa-bezahlen/27094262.html">he got a 100% loan-to-value mortage from a local savings bank controlled by political buddies of his</a>.</p>
+<p>The attendees at CSU donor&#8217;s dinners might be <a href="https://www.sueddeutsche.de/bayern/bayern-csu-affaere-spendenessen-1.5260711">named</a>.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+										<span class="cat-links">
+					<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://fistfulofeuros.net/afoe/category/afoe/" rel="category tag">A Fistful Of Euros</a>			</span>
+							
+										
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-11356 -->
+
+				
+					
+	<article id="post-11353" class="post-11353 post type-post status-publish format-standard hentry category-afoe category-germany">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://fistfulofeuros.net/afoe/superwahljahr-green-leader/" rel="bookmark">Superwahljahr: Green Leader</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://fistfulofeuros.net/afoe/superwahljahr-green-leader/" title="5:50 pm" rel="bookmark"><time class="entry-date" datetime="2021-04-25T17:50:20+00:00">April 25, 2021</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://fistfulofeuros.net/afoe/author/alex-harrowell/" title="View all posts by Alex Harrowell" rel="author">Alex Harrowell</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>So Markus Söder says the Greens are the most intellectually interesting party, and that they&#8217;re the CDU/CSU&#8217;s main competitor while the AfD is its enemy, a somewhat ambiguous statement. They&#8217;re <a href="https://m.tagesspiegel.de/politik/mehrheit-fuer-baerbock-als-kanzlerin-gruene-mit-weiterem-umfragerekord-vor-union/27129326.html">the leading political party in Germany</a>, going by the current polling. And they had to pick a candidate, too!</p>
+<p>Essentially everyone commented on the contrast between the drama consuming German conservatism and the absolutely unremarkable nature of the Greens&#8217; choice. So will I. <a href="https://www.sueddeutsche.de/politik/kanzlerkandidatur-gruene-1.5268753?utm_source=Twitter&#038;utm_medium=twitterbot&#038;utm_campaign=1.5268753">Co-leader Robert Habeck agreed to step aside, their federal executive signed off, Annalena Baerbock is the candidate</a>, something they literally announced while the CDU and CSU presidia were busy eviscerating themselves. Baerbock signalled, and as far as I know everyone assumes, that Habeck has been promised a major ministry, possibly finance. That was that. </p>
+<p>The new candidate&#8217;s personal polling is <a href="https://m.tagesspiegel.de/politik/mehrheit-fuer-baerbock-als-kanzlerin-gruene-mit-weiterem-umfragerekord-vor-union/27129326.html">pretty great, and the party is experiencing a wave of new members</a>, while even a poll of 1500 business people <a href="https://mobile.twitter.com/COdendahl/status/1385159199286599682">put here first (or possibly second after &#8220;don&#8217;t know&#8221;)</a>. The CDU tends to be very attached to its status as a &#8220;Volkspartei&#8221;, even the last one in Western Europe, compared to the small and medium-sized parties around it, but at 28 per cent and going higher there&#8217;s absolutely no reason why the Greens can&#8217;t clear whatever arbitrary hurdle defines this.</p>
+<p>Habeck <a href="https://m.tagesspiegel.de/politik/habeck-ueber-verzicht-auf-kanzlerkandidatur-schmerzhaftester-tag-in-meiner-politischen-laufbahn/27117336.html">spoke about his emotions in standing down</a> and confirmed incidentally that the Greens were determined to have a woman as the candidate. If there&#8217;s a good argument against Baerbock it&#8217;s unquestionably that, unlike Habeck, <a href="https://www.sueddeutsche.de/meinung/baerbock-habeck-kanzlerkandidatur-gruene-bundestagswahl-wahljahr-1.5269115?utm_source=Twitter&#038;utm_medium=twitterbot&#038;utm_campaign=1.5269115">she has never had ministerial or  executive responsibility for anything</a>. An interesting point here is that the Baerbock/Habeck era at the Greens has often been marked by dealing with one of the party&#8217;s identity conflicts by being more ambitious on the others &#8211; for example, trying to transcend the realo/fundi split by running to the left on social and economic policy and <a href="https://www.sueddeutsche.de/politik/schuldenbremse-helge-braun-robert-habeck-cdu-gruene-1.5186149?reduced=true">arguing for the exclusion of capital investment from the so-called debt-brake</a> &#8211; and picking Baerbock could be understood in this light. </p>
+<p>In a cynical electioneering sense, the best counterargument to the point about experience might be this <a href="https://mobile.twitter.com/COdendahl/status/1384093472496386050">extraordinary <em>SZ</em> interview conducted through the medium of mime</a>, which hits off exactly that tone, of being new and young and exciting but just conventional enough to come off slightly cringey to those of us with a twitter-jaded palate, that the most infuriatingly successful politicians master. </p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+										<span class="cat-links">
+					<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://fistfulofeuros.net/afoe/category/afoe/" rel="category tag">A Fistful Of Euros</a>, <a href="http://fistfulofeuros.net/afoe/category/afoe/germany/" rel="category tag">Germany</a>			</span>
+							
+										
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-11353 -->
+
+				
+					
+	<article id="post-11351" class="post-11351 post type-post status-publish format-standard hentry category-afoe category-germany">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://fistfulofeuros.net/afoe/superwahljahr-the-k-frage-is-definitely-maybe-resolved/" rel="bookmark">Superwahljahr: the K-Frage is definitely maybe resolved</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://fistfulofeuros.net/afoe/superwahljahr-the-k-frage-is-definitely-maybe-resolved/" title="5:18 pm" rel="bookmark"><time class="entry-date" datetime="2021-04-25T17:18:19+00:00">April 25, 2021</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://fistfulofeuros.net/afoe/author/alex-harrowell/" title="View all posts by Alex Harrowell" rel="author">Alex Harrowell</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>In the <a href="http://fistfulofeuros.net/afoe/superwahljahr-k-frage/">last thrilling instalment</a> we left Germany waiting for a meeting of the CDU/CSU parliamentary group that was going to &#8220;recommend&#8221; a candidate for chancellor. What happened next was an astonishing week of extremely public in-fighting, as part of the CDU tried to find a way to pick the CSU&#8217;s Markus Söder as candidate, more of the CDU tried to block them, and quite a few tried to get Söder picked without letting on that was what they were doing. </p>
+<p>A major part of the problem was precisely that the &#8220;CDU/CSU&#8221; doesn&#8217;t really exist. There are two separate political parties in a form of permanent coalition, but they have their own identities, organizational structures, and legal personalities. The decision was one that could only be taken separately. The CSU, obviously enough, supported its own guy, but the only way he could prevail would be for the CDU leader, Armin Laschet, either to step aside voluntarily or be forced into it by his own side. Söder&#8217;s supporters in the CDU pointed to his polling &#8211; he&#8217;s considerably more popular than Laschet, whose poll numbers are positively terrible &#8211; while his opponents countered that the CDU membership had voted and their opinion must be respected. After all, they had elected Laschet, and were being asked to see him pushed aside at the behest of top leaders in favour of someone who wasn&#8217;t even a member of the party. They could also respond that Bavarian politicians rarely do well outside Bavaria, and that the CDU base offered more of a foundation of democratic legitimacy.</p>
+<p>To begin with, the CDU leadership offered a &#8220;recommendation&#8221; for Laschet, which satisfied nobody. Söder responded by saying that he would be willing to run, or to stand down, if a &#8220;broad&#8221; majority wanted him to, leaving the definition conveniently vague. This led to a week of frantic canvassing down to the district level. Söder upped the ante by denouncing &#8220;backroom manoeuvres&#8221;. This <a href="https://m.tagesspiegel.de/politik/um-00-30-uhr-steht-die-entscheidung-so-verlief-der-kandidaten-krimi-hinter-den-kulissen/27111572.html"><em>Tagesspiegel</em></a> ticktock fills in much of the detail &#8211; although, for example, the party chief in Rheinland-Pfalz, Julia Klöckner (another person who used to be a Merkel successor) apparently called all her district chairs and very few wanted Laschet, when it came down to it, 9 out of the 31 members of the federal executive committee were willing to vote for Söder. </p>
+<p>This may be down to <a href="https://m.tagesspiegel.de/politik/wolfgang-schaeubles-rolle-in-der-k-frage-der-alte-mann-und-die-macht/27118806.html">Wolfgang Schäuble, for it is he</a>, who was the penultimate speaker and the first to demand a roll-call. Schäuble apparently feared an even more divisive solution in which the joint parliamentary group &#8211; the only institution that binds the two parties in a formal sense &#8211; would pick a candidate, probably stacking up a whole lot of side-deals in the process. The only other option, really, would be to ask the membership to vote &#8211; although everyone claimed to know the members&#8217; minds, <a href="https://www.tagesspiegel.de/politik/laschet-und-soeder-kaempfen-um-kandidatur-die-union-im-zerstoerungsmodus-und-was-daraus-folgen-muss/27106934.html">as pointed out here</a>, nobody wanted to risk consulting them.</p>
+<p>With the decision made, <a href="https://www.sueddeutsche.de/meinung/kanzlerkandidatur-cdu-csu-laschet-soeder-1.5262039?utm_source=Twitter&#038;utm_medium=twitterbot&#038;utm_campaign=1.5262039">this <em>SZ</em> piece argues</a>, the best thing Söder could do would be to seize the brief remaining window of opportunity to be a team player and step back with both good grace and the promise of a major federal ministry. Astonishingly, though, he&#8217;s continuing to rock the boat. Having promised that he would support the winner without making a fuss (&#8220;ohne Groll&#8221;), he&#8217;s giving <a href="https://m.tagesspiegel.de/politik/laschet-als-kanzlerkandidat-soeder-warnt-vor-helmut-kohl-2-0-aus-der-vergangenheit/27127778.html">newspaper interviews saying that the party doesn&#8217;t need a &#8220;Helmut Kohl 2.0 from the 1990s&#8221;</a>, while also setting a target of 35% of the vote, ruling out a three-party coalition, and declaring that the Greens are the most intellectually interesting competitor.</p>
+<p>What Söder is up to isn&#8217;t clear. It&#8217;s possible he still hopes Laschet, or the regional barons on the executive committee, will crack and give in and he&#8217;ll eventually get it. Or he may be positioning for the blamestorming exercise after a bruising defeat. Or perhaps he&#8217;s effectively running as a spoiler candidate out of spite. Both parties are making noises about recruiting members in each other&#8217;s territory, the nuclear option in their relationship, and Söder has gone so far as to <a href="https://mobile.twitter.com/COdendahl/status/1385171065240965121">drum up custom on Twitter</a>.</p>
+<p>If it&#8217;s a spoiler it&#8217;s quite the spoiler. The whole drama is doing the CDU incalculable damage. A first polling shock landed with Forsa&#8217;s survey on the 20th of April, putting the Greens in first place on 28 per cent and the joint CDU/CSU on 27 per cent. The much respected pollsters from the <em>Forschungsgruppe Wahlen</em> responded by <a href="https://www.tagesspiegel.de/politik/nach-entscheidung-in-der-k-frage-forschungsgruppe-wahlen-haelt-union-absturz-fuer-nicht-realistisch/27089432.html">saying that this was unrealistic</a>, whereupon it promptly <a href="https://m.tagesspiegel.de/politik/mehrheit-fuer-baerbock-als-kanzlerin-gruene-mit-weiterem-umfragerekord-vor-union/27129326.html">happened again</a> in Kantar/Worldpanel&#8217;s survey. As I keep saying, given the CSU&#8217;s special powerbase in Bavaria, this implies <a href="http://fistfulofeuros.net/afoe/reset-the-reset-superwahljahr-blogging/">frankly horrific</a> numbers for the CDU in the rest of Germany.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+										<span class="cat-links">
+					<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://fistfulofeuros.net/afoe/category/afoe/" rel="category tag">A Fistful Of Euros</a>, <a href="http://fistfulofeuros.net/afoe/category/afoe/germany/" rel="category tag">Germany</a>			</span>
+							
+										
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-11351 -->
+
+				
+					
+	<article id="post-11339" class="post-11339 post type-post status-publish format-standard hentry category-afoe">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://fistfulofeuros.net/afoe/superwahljahr-k-frage/" rel="bookmark">Superwahljahr: K-Frage</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://fistfulofeuros.net/afoe/superwahljahr-k-frage/" title="6:10 pm" rel="bookmark"><time class="entry-date" datetime="2021-04-11T18:10:01+00:00">April 11, 2021</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://fistfulofeuros.net/afoe/author/alex-harrowell/" title="View all posts by Alex Harrowell" rel="author">Alex Harrowell</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Whatever else happens, there&#8217;s going to be a federal election in September, and there will be a CDU/CSU joint candidate for the chancellorship. The question, of course, is who &#8211; the <em>K-Frage</em>. Germany had a preview of this with the CDU&#8217;s leadership election earlier this year, where the party of consensus, compromise, and continuity achieved the first two by compromising between the continuity-Merkel candidate, Norbert Röttgen, and the tax-cut conservative Friedrich Merz, by picking the compromise candidate&#8217;s compromise candidate, Armin Laschet, the Nordrhein-Westfalen minister president. The key contradiction, really, was between the way Merkel transformed the CDU electorate &#8211; <a href="https://twitter.com/COdendahl/status/1292783801580630017">Christian Odendahl&#8217;s thread</a> points out that not only did she mobilise women, she made the party the leading choice among immigrants &#8211; and the degree to which the party remained the same. Perhaps the most telling point is that the three candidates for the CDU leadership were not just all men, all native-born, all West Germans, and all Roman Catholics, they hailed from a fairly small geographic slice of NRW. There was no-one from east of Dortmund, north of the Ruhr, or much south of Bonn. All three are lawyers. <a href="https://twitter.com/yorksranter/status/1350415355127148545">Laschet&#8217;s offer</a> was a compromise between the Merkel legacy and this rather dated party apparatus.</p>
+<p><iframe loading="lazy" src="https://www.google.com/maps/d/embed?mid=1zN7Fsc-NOlfkFxzgE55EQ4ZuhP3w-qI4" width="640" height="480"></iframe></p>
+<p>As the virus bounce receded, the contradiction began to bite again, and the CDU/CSU&#8217;s polls collapsed, there&#8217;s been a sort of phony war as CSU leader Markus Söder has repeatedly refused to say if he&#8217;s a candidate while sure acting like one. Enter <a href="https://m.tagesspiegel.de/politik/unionsfraktionschef-will-eine-schnelle-entscheidung-brinkhaus-draengt-auf-klaerung-der-k-frage-binnen-zwei-wochen/27083114.html">Ralph Brinkhaus</a>, the CDU/CSU parliamentary leader, who has very brusquely demanded that Laschet and Söder make their minds up, setting a two-week deadline. Brinkhaus&#8217; influence should not be underestimated. In 2018, it was his surprise election to the job that precipitated Merkel&#8217;s announcement that she wouldn&#8217;t be a candidate again &#8211; see this <a href="http://fistfulofeuros.net/afoe/on-the-brinkhaus/">AFOE post, including a profile of him</a>. Brinkhaus was supported in this by fifty members who signed a statement demanding that they be consulted, plus some important state-level CDU politicians.</p>
+<p>In the meantime, new, terrible polling dropped, showing Laschet&#8217;s state CDU <a href="https://twitter.com/Wahlen_DE/status/1381156263023755270">sinking fast</a>, within 2 points of the Greens hitting the lead. It&#8217;s hard to overestimate the significance of the Greens taking the lead in NRW, the richest and most populous state and the home of all things coal-fired and stereotypically masculine. This is of course hugely sapping for Laschet. Federal-level polls look <a href="https://www.handelsblatt.com/politik/deutschland/bundestagswahl-sonntagsfrage-cdu-kann-abwaertstrend-stoppen-schlechte-umfrageergebnisse-fuer-armin-laschet/27084626.html?ticket=ST-505862-vxkCqCoSCvxQvHUBifea-ap6">marginally better</a> for the CDU than a week ago although this is probably just noise.</p>
+<p>Events are now moving fast. <a href="https://www.handelsblatt.com/politik/deutschland/bundestagswahl-2021-soeder-zur-kanzlerkandidatur-bereit-entscheidung-im-duell-mit-laschet-vertagt/27084558.html"><em>Handelsblatt</em></a> reports that Söder is finally off the fence. In his own words, apparently he couldn&#8217;t bring himself to hide from the responsibility. What a guy! Laschet and Söder are both now officially candidates, having announced this to the parliamentary group and therefore implicitly conceded that it&#8217;s likely to choose between them. So many MPs have now signed Brinkhaus&#8217; statement that they likely make up a blocking minority in the case Laschet wants to ignore them and Söder and just go for it.</p>
+<p>Everyone is now taking sides. The former Merz supporters are rallying to Söder and so is Röttgen (did we say they like compromises?), although apparently some people think Brinkhaus himself should run or threaten to run, perhaps just as a way of forcing Laschet and Söder to come to an arrangement. The CDU and CSU top leaders are meeting tomorrow &#8211; <a href="https://www.tagesspiegel.de/politik/spitzengremien-von-cdu-und-csu-tagen-soeder-erwartet-keine-entscheidung-ueber-die-k-frage-am-montag/27084354.html">Söder says he doesn&#8217;t expect a decision but Laschet says he expects a &#8220;recommendation&#8221;</a>. Either way the question is going to be answered.</p>
+<p>That of course leaves the other K-frage &#8211; which of the Greens&#8217; co-leaders, or perhaps someone else, gets to be the candidate, as there can only be one.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+										<span class="cat-links">
+					<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://fistfulofeuros.net/afoe/category/afoe/" rel="category tag">A Fistful Of Euros</a>			</span>
+							
+										
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-11339 -->
+
+				
+					
+	<article id="post-11328" class="post-11328 post type-post status-publish format-standard hentry category-afoe category-germany">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://fistfulofeuros.net/afoe/fin-de-regne-an-outbreak-of-small-and-medium-sized-scandals/" rel="bookmark">Fin De Régne: An Outbreak of Small and Medium-Sized Scandals</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://fistfulofeuros.net/afoe/fin-de-regne-an-outbreak-of-small-and-medium-sized-scandals/" title="6:20 pm" rel="bookmark"><time class="entry-date" datetime="2021-04-04T18:20:25+00:00">April 4, 2021</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://fistfulofeuros.net/afoe/author/alex-harrowell/" title="View all posts by Alex Harrowell" rel="author">Alex Harrowell</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>In a previous <a href="http://fistfulofeuros.net/afoe/reset-the-reset-superwahljahr-blogging"><em>Superwahljahr</em> post</a> I said that the <em>Wechselstimmung</em> &#8211; the sense that it&#8217;s time for a change &#8211; Markus Söder felt in Germany might just be an <em>ambiance de fin de régne</em>. The German, or indeed English, phrase has positive, springlike connotations even if you&#8217;re on the wrong end of it, a sense of revival and necessary housecleaning. The French, though, implies an atmosphere of sinister intrigue and suddenly unburied secrets. Even if you welcome the prospect of a new reign, the transition is likely to be sordid and dangerous. </p>
+<p>This spring has seen the country of the small and medium-sized business&#8217;s small and medium-sized political parties hit by a wave of small and medium-sized scandals. Like a good small-town machine-tool manufacturer, this Mittelstand of scandal promises to punch above its weight and deliver more political impact than you&#8217;d expect. Scandals are interesting because they obey their own rules; the secrets disclosed are usually not all that secret or that surprising, the impact of the scandal is rarely proportional to its seriousness on any objective test, and there is a critically important distinction between the kind that burns out and the kind that snowballs and brings more skeletons clattering out of their cupboards.</p>
+<p>There was the whole business with Azerbaijan, for example. This oil-rich autocracy seems to have celebrated its triumph over Armenia by taking a startlingly close interest in the politics of southern Thüringen, where it has been regularly buying advertising in a CDU MP&#8217;s self-published local newspaper. The sums are comically trivial, but an important feature of a good scandal is very often just that. If you think you&#8217;re hardened enough to expect that everyone has their price, after all, finding out that <a href="https://www.tagesspiegel.de/politik/cdu-abgeordneter-legt-mandat-nieder-fuer-die-union-wird-auch-die-aserbaidschan-affaere-zum-problem/26998148.html">it&#8217;s €16,000</a> might be more disturbing rather than less. And as it turned out, Mark Hauptmann wasn&#8217;t the only one. Not only were there <a href="https://www.vice.com/de/article/qjp74b/aserbaidschan-affare-der-diktator-die-cdu-der-moderator-und-das-geld">a whole gaggle of CDU politicians in the pay of Baku, there was a TV station in Berlin</a>, run by none other than Peter Brinkmann, the journalist famous for cajoling the East German information minister Günter Schabowski into accidentally announcing the end of the Berlin Wall. Also, one of them, Karin Schenz, has unexpectedly died on an airliner heading from Cuba back to Germany while under investigation, the sort of thing that will always raise questions. Their Green coalition partners in Stuttgart seem to have noticed or suspected something, as they nicknamed them the Baku-Württemberg party.</p>
+<p>(The same Azeri lobbying campaign, incidentally, seems to have recruited the disgraced Liam Fox MP, or &#8220;Foks&#8221; as his surname is spelled on the cover of the suspiciously large edition of his book they ordered.)</p>
+<p>Then there was federal health minister Jens Spahn. Spahn didn&#8217;t help himself by going to bizarre legal lengths to conceal the price of the luxurious villa he and his husband the publisher of celebrity magazines bought. Such information is available in the land registry as a matter of routine, but Spahn both tried to lean on the local authority through administrative channels and then threatened <em>Der Tagesspiegel</em> with his lawyers. None of it worked; turns out the seller was later given an important job in the ministry&#8217;s gift. Spahn&#8217;s husband&#8217;s firm, meanwhile, turned out to have sold the ministry a large quantity of masks despite being, you know, a magazine holding company that probably hadn&#8217;t sewn them itself &#8211; or maybe it did, as most of them never turned up and they&#8217;re still arguing about it. </p>
+<p>The mask thing just kept on going. A succession of CDU and CSU MPs all seem to have discovered they had masks to sell last spring, and proceeded to push them on the federal government, <a href="https://m.tagesspiegel.de/berlin/maskenaffaere-erreicht-berliner-cdu-bundestagskandidat-soll-von-geschaeften-mit-dem-gesundheitsministerium-profitiert-haben/27049010.html">mostly via Spahn&#8217;s ministry</a>. To begin with they were all individual cases and hadn&#8217;t made any profit out of it, no, sir. As the story developed there were more of them, the CSU was involved as well as the CDU, and the cases were evidently connected. Not only did they receive fees for their services as lawyers, they got a percentage commission, and the money was paid to a firm controlled by one guy&#8217;s children and its Luxembourg bank account. The transfer caused the sender&#8217;s bank to raise a suspicious-activity report, which turns out to have brought the whole thing down despite the usual last minute promises to let one&#8217;s offices <em>ruhen</em> or literally rest for a while and to give the money to a (suspiciously) local charity. This eventually reached Alfred Sauter, a hugely important CSU figure, who further turned out to have been <a href="https://www.sueddeutsche.de/bayern/sauter-schnelltest-csu-coronavirus-soeder-1.5254277!amp?reduced=true&#038;__twitter_impression=true">paid to lobby for a brand of rapid lateral-flow tests</a> with Markus Söder&#8217;s office.</p>
+<p>Sauter resigned rather than become the first person to be expelled from the CSU parliamentary party, but there was more. His day job outside politics is a law firm he runs with fellow CSU MP Peter Gauweiler, for it is he. Gauweiler managed to trump the mask business by being exposed for accepting <a href="https://www.sueddeutsche.de/politik/gauweiler-nebeneinkuenfte-csu-finck-1.5247091">€11 million</a> in fees from 91 year old billionaire ice-cream tycoon August von Finck. Von Finck&#8217;s grandfather was a co-founder of Allianz and Münchner Re, his dad acquired the German Rothschild bank during the Nazi era in the way you&#8217;d expect, and younger von Finck probably made more money from real estate, but I can&#8217;t help stressing that his family owns Mövenpick, because the whole idea that European history was bent out of shape by the sinister influence of Big Sundae is too grimly hilarious. At least it&#8217;s an improvement on Krupp and Thyssen &#8211; butter rather than guns, even if his politics are seriously <a href="https://twitter.com/AndreasKemper/status/1375187620888723462">weird</a>. </p>
+<p>What von Finck wanted from him was a constant stream of lawsuits against the European Central Bank, and, well, that&#8217;s what he got. If you read this blog through the Eurozone crisis you probably remember Gauweiler as the most intransigent opponent of anything like a transfer union or really any action at all. After all the complicated theorising about the Freiburg school, ordo-liberalism, the importance of returning to the final settlement of trade transactions, well, it was von Finck&#8217;s euros or more likely undeclared Swiss francs at work. The same goes for all the arguing about the inner workings of TARGET-2, as it further turns out Gauweiler paid Hans-Werner Sinn for his expert testimony out of the ice-cream money. Hey, and you could read this blog for nothing!</p>
+<p>Well, that was fun. But scandal theory tells us something important. It&#8217;s all dropping now for a reason. That might be because nobody fears the people involved any more, or nobody expects to get anything from them in exchange for continued silence. It might be because a news story about important people isn&#8217;t news if they&#8217;re not important people any more. It might be because change is coming, and the question is now what and who that change will be. In that light, the scandal outbreak implies there&#8217;s going to be a new government, and plenty of people have it in for Söder. It will be interesting to see what becomes of the von Finck/Söder <a href="https://twitter.com/AndreasKemper/status/1375153732661489670">link described here</a>, as another important question in any scandal is who&#8217;s protected and who isn&#8217;t.</p>
+<p>Meanwhile, <a href="https://m.tagesspiegel.de/politik/merkels-kampfansage-bei-anne-will-ich-werde-nicht-zuschauen-dass-wir-100-000-infizierte-haben/27049130.html">the chancellor and the provinces</a> are at daggers drawn having managed &#8211; uniquely &#8211; to decide on an Easter lockdown and then realize the additional public holiday involved was illegal. Fin de régne, indeed.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+										<span class="cat-links">
+					<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://fistfulofeuros.net/afoe/category/afoe/" rel="category tag">A Fistful Of Euros</a>, <a href="http://fistfulofeuros.net/afoe/category/afoe/germany/" rel="category tag">Germany</a>			</span>
+							
+										
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-11328 -->
+
+				
+							<nav id="nav-below">
+				<h3 class="assistive-text">Post navigation</h3>
+				<div class="nav-previous"><a href="http://fistfulofeuros.net/page/2/" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+				<div class="nav-next"></div>
+			</nav><!-- #nav-above -->
+			
+			
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+		<div id="secondary" class="widget-area" role="complementary">
+			
+		<aside id="recent-posts-2" class="widget widget_recent_entries">
+		<h3 class="widget-title">Recent Posts</h3>
+		<ul>
+											<li>
+					<a href="http://fistfulofeuros.net/afoe/german-elections-roundup/">German Elections: Roundup</a>
+									</li>
+											<li>
+					<a href="http://fistfulofeuros.net/afoe/geschlossenheit/">Geschlossenheit</a>
+									</li>
+											<li>
+					<a href="http://fistfulofeuros.net/afoe/zukunftsteam-the-future-of-the-merkel-coalition/">Zukunftsteam: the future of the Merkel coalition</a>
+									</li>
+											<li>
+					<a href="http://fistfulofeuros.net/afoe/sommerloch-ade-what-happened-in-germany-since-our-last-episode/">Sommerloch ade: what happened in Germany since our last episode</a>
+									</li>
+											<li>
+					<a href="http://fistfulofeuros.net/afoe/superwahljahr-roundup/">Superwahljahr Roundup</a>
+									</li>
+					</ul>
+
+		</aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widget-title">Recent Comments</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='http://fistfulofeuros.net' rel='external nofollow ugc' class='url'>Doug</a></span> on <a href="http://fistfulofeuros.net/afoe/german-elections-roundup/comment-page-1/#comment-112396">German Elections: Roundup</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://fistfulofeuros.net/afoe/geschlossenheit/' rel='external nofollow ugc' class='url'>Geschlossenheit | A Fistful Of Euros</a></span> on <a href="http://fistfulofeuros.net/afoe/zukunftsteam-the-future-of-the-merkel-coalition/comment-page-1/#comment-112393">Zukunftsteam: the future of the Merkel coalition</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://fistfulofeuros.net/afoe/geschlossenheit/' rel='external nofollow ugc' class='url'>Geschlossenheit | A Fistful Of Euros</a></span> on <a href="http://fistfulofeuros.net/afoe/sommerloch-ade-what-happened-in-germany-since-our-last-episode/comment-page-1/#comment-112392">Sommerloch ade: what happened in Germany since our last episode</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://fistfulofeuros.net/afoe/zukunftsteam-the-future-of-the-merkel-coalition/' rel='external nofollow ugc' class='url'>Zukunftsteam: the future of the Merkel coalition | A Fistful Of Euros</a></span> on <a href="http://fistfulofeuros.net/afoe/sommerloch-ade-what-happened-in-germany-since-our-last-episode/comment-page-1/#comment-112357">Sommerloch ade: what happened in Germany since our last episode</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://mamywszystko.net/' rel='external nofollow ugc' class='url'>Anna</a></span> on <a href="http://fistfulofeuros.net/afoe/superwahljahr-the-k-frage-is-definitely-maybe-resolved/comment-page-1/#comment-112194">Superwahljahr: the K-Frage is definitely maybe resolved</a></li></ul></aside><aside id="linkcat-53" class="widget widget_links"><h3 class="widget-title">Academia/Science</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.aleph.se/andart/">Andart</a></li>
+<li><a href="http://virtualstoa.net/">Chris Brooke</a></li>
+<li><a href="http://demographymatters.blogspot.com">Demography Matters</a></li>
+<li><a href="http://esztersblog.com">Eszter Hargittai</a></li>
+<li><a href="http://jilltxt.net/">Jill Walker</a></li>
+<li><a href="http://moresolito.wordpress.com/">More Solito</a></li>
+<li><a href="http://judson.blogs.nytimes.com/">Olivia Judson</a></li>
+<li><a href="http://orgtheory.wordpress.com/">orgtheory</a></li>
+<li><a href="http://ibanda.blogs.com">Panchromatica</a></li>
+<li><a href="http://www.randomvariable.co.uk/">Random Variable</a></li>
+<li><a href="http://realclimate.org/">Real Climate</a></li>
+<li><a href="http://www.themonkeycage.org/">The Monkey Cage</a></li>
+<li><a href="http://torillsin.blogspot.com/">thinking with my fingers</a></li>
+<li><a href="http://www.worldchanging.com/">World Changing</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-61" class="widget widget_links"><h3 class="widget-title">Business</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://live.curry.com">Adam Curry</a></li>
+<li><a href="http://www.conversationblog.com/journal/">Conversations Blog</a></li>
+<li><a href="http://www.gapingvoid.com/">Gaping Void</a></li>
+<li><a href="http://loiclemeur.com">Loic Le Meur</a></li>
+<li><a href="http://www.nevillehobson.com/">Neville Hobson</a></li>
+<li><a href="http://www.noweurope.com/">nowEurope</a></li>
+<li><a href="http://www.paidcontent.org/">PaidContent.org</a></li>
+<li><a href="http://aixtal.blogspot.com/">Technologies du Langage</a></li>
+<li><a href="http://www.tjacobi.com">Torsten Jacobi&#8217;s Weblog</a></li>
+<li><a href="http://voidstar.com/">Voidstar</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-47" class="widget widget_links"><h3 class="widget-title">Central and Western Europe</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://allaboutlatvia.com">All About Latvia</a></li>
+<li><a href="http://artgoldhammer.blogspot.com/">Arthur Goldhammer&#039;s French Politics</a></li>
+<li><a href="http://atlanticreview.org/">Atlantic Review</a></li>
+<li><a href="http://beppegrillo.it/english.php">Beppe Grillo</a></li>
+<li><a href="http://dialoginternational.typepad.com/dialog_international/">Dialog International</a></li>
+<li><a href="http://esbalogh.typepad.com/hungarianspectrum/" title="News and views from Budapest">Hungarian Spectrum</a></li>
+<li><a href="http://www.scandinknavia.blogspot.com/">Scandiknavia</a></li>
+<li><a href="http://beatroot.blogspot.com/">The Beatroot</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-58" class="widget widget_links"><h3 class="widget-title">City Blogs</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://london-underground.blogspot.com/">Going Underground&#8217;s Blog</a></li>
+<li><a href="http://londonist.com/">Londonist</a></li>
+<li><a href="http://berlin.metblogs.com/">Metroblogging Berlin</a></li>
+<li><a href="http://dublin.metblogs.com/">Metroblogging Dublin</a></li>
+<li><a href="http://london.metblogs.com/">Metroblogging London</a></li>
+<li><a href="http://paris.metblogs.com/">Metroblogging Paris</a></li>
+<li><a href="http://vienna.metblogs.com/">Metroblogging Vienna</a></li>
+<li><a href="http://pestiside.hu">Pestiside</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-67" class="widget widget_links"><h3 class="widget-title">Culture</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://ad-rag.com">Adland</a></li>
+<li><a href="http://lunettesrouges.blog.lemonde.fr/">Amateur d&#8217;art</a></li>
+<li><a href="http://spellingtuesday.com">Bagatell</a></li>
+<li><a href="http://blog.bearstrong.net/max256/">Bjorn Staerk</a></li>
+<li><a href="http://blogactiv.eu/">blogactiv.eu/</a></li>
+<li><a href="http://www.logopolis.org.uk/weblog/index.html">Castrovalva</a></li>
+<li><a href="http://www.accelerando.org">Charlie Stross</a></li>
+<li><a href="http://www.chocolateandzucchini.com">Chocolate and Zucchini</a></li>
+<li><a href="http://piginawig.diaryland.com/">Desbladet</a></li>
+<li><a href="http://pepysdiary.com/">Diary of Samuel Pepys</a></li>
+<li><a href="http://horinca.blogspot.com/" title="Fiddler in the wild">Dumneazu</a></li>
+<li><a href="http://europeendless.wordpress.com/">Europe Endless</a></li>
+<li><a href="http://europeanhistory.about.com/">European History Blog</a></li>
+<li><a href="http://livejournal.com/users/nhw/">From the Heart of Europe</a></li>
+<li><a href="http://www.lacoquette.blogs.com">La Coquette</a></li>
+<li><a href="http://www.timemachinego.com/linkmachinego/">LinkMachineGo</a></li>
+<li><a href="http://metameat.net/kafka/index.php?en">The diaries of Franz Kafka</a></li>
+<li><a href="http://eddiecampbell.blogspot.com/">The Fate of the Artist</a></li>
+<li><a href="http://we-make-money-not-art.com/">we make money not art</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-49" class="widget widget_links"><h3 class="widget-title">Eastern Europe</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://englishrussia.com/">English Russia</a></li>
+<li><a href="http://foreignnotes.blogspot.com">foreign notes</a></li>
+<li><a href="http://leopolis.blogspot.com/">Leopolis</a></li>
+<li><a href="http://www.neweurasia.net/">New Eurasia</a></li>
+<li><a href="http://russianforces.org/">Russian Forces</a></li>
+<li><a href="http://scrapsofmoscow.blogspot.com/">Scraps of Moscow</a></li>
+<li><a href="http://www.siberianlight.net/">Siberian Light</a></li>
+<li><a href="http://the8thcircle.com/">The 8th Circle</a></li>
+<li><a href="http://registan.net/the_argus/">The Argus</a></li>
+<li><a href="http://blog.oneworld.am/">The Caucasian Knot</a></li>
+<li><a href="http://www.thecopydude.com/">The Copy Dude</a></li>
+<li><a href="http://vkhokhl.blogspot.com">Veronica Khokhlova</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-66" class="widget widget_links"><h3 class="widget-title">Economics</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://bonoboathome.blogspot.com/">Bonobo Land</a></li>
+<li><a href="http://clausvistesen.squarespace.com/alphasources-blog/">Claus Vistesen</a></li>
+<li><a href="http://d-squareddigest.blogspot.com/">D-squared Digest</a></li>
+<li><a href="http://rgemonitor.com/blog/economonitor">Economomonitor</a></li>
+<li><a href="http://eurointelligence.com">EuroIntelligence</a></li>
+<li><a href="http://euro-area.org/blog/">Eurozone Watch Blog</a></li>
+<li><a href="http://blogs.reuters.com/felix-salmon/">Felix Salmon</a></li>
+<li><a href="http://globaleconomydoesmatter.blogspot.com">Global Economy Matters</a></li>
+<li><a href="http://kantooseconomics.com">Kantoos Economics</a></li>
+<li><a href="http://www.portfolio.com/views/blogs/market-movers/">Market Movers by Felix Salmon</a></li>
+<li><a href="http://blogs.ft.com/wolfforum/">Martin Wolf Economists Forum</a></li>
+<li><a href="http://neweconomist.blogs.com/new_economist/">New Economist</a></li>
+<li><a href="http://rgemonitor.com/blog/roubini">Nouriel Roubini</a></li>
+<li><a href="http://olafstorbeck.com/">Olaf Storbeck</a></li>
+<li><a href="http://rjwaldmann.blogspot.com">Robert Waldmann</a></li>
+<li><a href="http://stumblingandmumbling.typepad.com/stumbling_and_mumbling/">Stumbling and Mumbling</a></li>
+<li><a href="http://www.voxeu.org/">Vox</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-80" class="widget widget_links"><h3 class="widget-title">EU News Sources</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.eubusiness.com/">EU Business</a></li>
+<li><a href="http://www.euobserver.com">EUobserver</a></li>
+<li><a href="http://www.eupolitix.com/EN/">EUpolitix</a></li>
+<li><a href="http://www.euractiv.com">Euractiv</a></li>
+<li><a href="http://www.euro-correspondent.com/">euro-correspondent.com</a></li>
+<li><a href="http://www.european-voice.com/">European Voice</a></li>
+<li><a href="http://story.news.yahoo.com/fc?cid=34&#038;tmpl=fc&#038;in=World&#038;cat=European_Union">Yahoo!: EU News</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-83" class="widget widget_links"><h3 class="widget-title">EU Resources</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.dadalos-europe.org/int/">Dadalos Education Server: The EU</a></li>
+<li><a href="http://euabc.com/">EUABC</a></li>
+<li><a href="http://talkeuro.com/uk/">The European constitution</a></li>
+<li><a href="http://en.wikipedia.org/wiki/European_Union">Wikipedia: The European Union</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-57" class="widget widget_links"><h3 class="widget-title">Humor</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://xo.typepad.com/">A Welsh View</a></li>
+<li><a href="http://chasemeladies.blogspot.com/">Chase me ladies, I&#8217;m in the cavalry</a></li>
+<li><a href="http://privatesecretdiary.com/">JonnyB</a></li>
+<li><a href="http://www.littleredboat.co.uk/">little.red.boat</a></li>
+<li><a href="http://www.sadlyno.com/">Sadly, No!</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-64" class="widget widget_links"><h3 class="widget-title">in French</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://lunettesrouges.blog.lemonde.fr/">Amateur d&#8217;art</a></li>
+<li><a href="http://blogblog.20minutes-blogs.fr/">BlogorrhÃ©e</a></li>
+<li><a href="http://ceteris-paribus.blogspot.com">Ceteris Paribus</a></li>
+<li><a href="http://carignano.blog.20minutes.fr/">Christophe Carignano</a></li>
+<li><a href="http://bricablog.net/">De bric et de blog</a></li>
+<li><a href="http://embruns.net/">Embruns</a></li>
+<li><a href="http://www.maitre-eolas.fr/">Journal d&#8217;un avocat</a></li>
+<li><a href="http://econoclaste.org.free.fr/dotclear/">Le Blog d&#8217;Econoclaste</a></li>
+<li><a href="http://image.kaywa.com">Le Weblog de Jean-Sebastien</a></li>
+<li><a href="http://vanb.typepad.com/maviesansmoi/">maviesansmoi</a></li>
+<li><a href="http://blog.netpolitique.net/">Netpolitique</a></li>
+<li><a href="http://publiusleuropeen.typepad.com/publius/">Publius</a></li>
+<li><a href="http://www.rue89.com/">Rue89</a></li>
+<li><a href="http://aixtal.blogspot.com/">Technologies du Langage</a></li>
+<li><a href="http://swissroll.info/">Un swissroll</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-65" class="widget widget_links"><h3 class="widget-title">in German</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://ahoipolloi.blogger.de/">Ahoi Polloi</a></li>
+<li><a href="http://www.zeit.de/blogs/index">Die Zeit Blog Zentrale</a></li>
+<li><a href="http://blog.zeit.de/herdentrieb/">Herdentrieb</a></li>
+<li><a href="http://blog.handelsblatt.de/indiskretion/">Indiskretion Ehrensache</a></li>
+<li><a href="http://jumpcut.antville.org/">Jump Cut</a></li>
+<li><a href="http://logicorum.wordpress.com/">logicorum</a></li>
+<li><a href="http://modeste.twoday.net/">Melancholie Modeste</a></li>
+<li><a href="http://www.netzpolitik.org">netzpolitik.org</a></li>
+<li><a href="http://www.ostblog.de/">Ostblog</a></li>
+<li><a href="http://weblog.plasticthinking.org/">Plastic Thinking</a></li>
+<li><a href="http://www.irox.de/roxomatic">Roxomatic</a></li>
+<li><a href="http://vabanque.twoday.net/">Where the money is</a></li>
+<li><a href="http://www.wortfeld.de/">Wortfeld</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-72" class="widget widget_links"><h3 class="widget-title">International economics</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://angrybear.blogspot.com">Angry Bear</a></li>
+<li><a href="http://delong.typepad.com">Brad Delong</a></li>
+<li><a href="http://roubiniglobal.com/setser/">Brad Setser</a></li>
+<li><a href="http://econospeak.blogspot.com/">Econospeak</a></li>
+<li><a href="http://indianeconomy.org/">Indian Economy</a></li>
+<li><a href="http://macroblog.typepad.com/macroblog/">Macroblog</a></li>
+<li><a href="http://economistsview.typepad.com/">Mark Thoma</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-71" class="widget widget_links"><h3 class="widget-title">International Politics</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.belgraviadispatch.com/">Belgravia Dispatch</a></li>
+<li><a href="http://www.danieldrezner.com/blog">Daniel Drezner</a></li>
+<li><a href="http://blog.foreignpolicy.com/">FP Passport</a></li>
+<li><a href="http://fruitsandvotes.com/">Fruits and Votes</a></li>
+<li><a href="http://www.globalvoicesonline.org/">Global Voices Online</a></li>
+<li><a href="http://euroletters.wordpress.com/">Letters from Europe</a></li>
+<li><a href="http://www.livejournal.com/users/rfmcdpei">Randy McDonald&#8217;s Livejournal</a></li>
+<li><a href="http://tonykaron.com/">Tony Karon</a></li>
+<li><a href="http://www.undispatch.com/">UN Dispatch</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-54" class="widget widget_links"><h3 class="widget-title">Lawblogs</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://eulaw.typepad.com/eulawblog/">EU Law Blog</a></li>
+<li><a href="http://www.lawofemu.info/blog/">Law of the EMU</a></li>
+<li><a href="http://www.lawpundit.com/blog/lawpundit.htm">Lawpundit</a></li>
+<li><a href="http://grahnlaw.blogspot.com/">Ralf Grahn</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-79" class="widget widget_links"><h3 class="widget-title">Magazines</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.cafebabel.com/en/">cafÃ© babel</a></li>
+<li><a href="http://www.foreignaffairs.org">Foreign Affairs</a></li>
+<li><a href="http://www.foreignpolicy.com">Foreign Policy</a></li>
+<li><a href="http://www.newropeans-magazine.org/">Newropeans Magazine</a></li>
+<li><a href="http://www.prospectmagazine.co.uk">Prospect</a></li>
+<li><a href="http://www.theglobalist.com/">The Globalist</a></li>
+<li><a href="http://www.lrb.co.uk">The London Review of Books</a></li>
+<li><a href="http://www.nybooks.com">The New York Review of Books</a></li>
+<li><a href="http://wordswithoutborders.org/">Words Without Borderst</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-55" class="widget widget_links"><h3 class="widget-title">Media</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://editorsweblog.org">Editors Weblog</a></li>
+<li><a href="http://kullin.net//">Media Culpa</a></li>
+<li><a href="http://psfk.com/">PSFK</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-73" class="widget widget_links"><h3 class="widget-title">Middle East Politics</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://lynch.foreignpolicy.com/">Abu Aardvark</a></li>
+<li><a href="http://www.americanfootprints.com/drupal/">American Footprints</a></li>
+<li><a href="http://www.aqoul.com">Aqoul</a></li>
+<li><a href="http://bjulrich.blogspot.com">Brian Ulrich</a></li>
+<li><a href="http://www.back-to-iraq.com">Christopher Allbritton</a></li>
+<li><a href="http://www.juancole.com/">Juan Cole</a></li>
+<li><a href="http://attackerman.firedoglake.com/">Spencer Ackerman</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-77" class="widget widget_links"><h3 class="widget-title">News Sources</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.spiegel.de/international/">Der Spiegel International</a></li>
+<li><a href="http://www.dw-world.de/">Deutsche Welle</a></li>
+<li><a href="http://www.eurasianet.org/departments/insight/index.shtml">Eurasia Insight</a></li>
+<li><a href="http://www.signandsight.com/">Sign &amp; Sight</a></li>
+<li><a href="http://www.signandsight.com/intodaysfeuilletons">Sign &amp; Sight: In Today&#8217;s Feuilletons</a></li>
+<li><a href="http://www.themoscowtimes.com/">The Moscow Times</a></li>
+<li><a href="http://www.tol.cz/look/TOLnew/home.tpl?IdLanguage=1&#038;IdPublication=4&#038;NrIssue=00">Transitions Online</a></li>
+<li><a href="http://www.turkishdigest.com/">Turkish Digest</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-62" class="widget widget_links"><h3 class="widget-title">Photo Blogs</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.5063.com">5063</a></li>
+<li><a href="http://www.edwinek.com/">De Steen der Eigenwijzen</a></li>
+<li><a href="http://www.kinuk.co.uk/blog/">Kinuk</a></li>
+<li><a href="http://image.kaywa.com">Le Weblog de Jean-Sebastien</a></li>
+<li><a href="http://mcrmarks.blogspot.com/">MCR Art</a></li>
+<li><a href="http://mellimage.blogspot.com/">mellimage</a></li>
+<li><a href="http://www.smudo.org/blog/">smudo.org</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-63" class="widget widget_links"><h3 class="widget-title">Read the archives</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://backseatdrivers.blogspot.com">Back Seat Drivers</a></li>
+<li><a href="http://www.europundit.com/wp/">Blagdaross</a></li>
+<li><a href="http://cancergiggles.blog-city.com/">Cancergiggles (RIP)</a></li>
+<li><a href="http://ex-parrot.com/~chris/wwwitter/">Chris Lightfoot (RIP)</a></li>
+<li><a href="http://commentisfree.guardian.co.uk/daniel_davies/">Comment is free: Daniel Davies</a></li>
+<li><a href="http://davosnewbies.com/">Davos Newbies</a></li>
+<li><a href="http://draxblog.typepad.com/draxblog_3/">Dragan Antulov</a></li>
+<li><a href="http://emmanuelle.net/">Emmanuelle Richard</a></li>
+<li><a href="http://www.spamula.net/blog/">Giornale Nuovo</a></li>
+<li><a href="http://carniola.org/">Glory of Carniola</a></li>
+<li><a href="http://headheeb.blogmosis.com">Head Heeb</a></li>
+<li><a href="http://www.hemmungen.com/">Hemmungen</a></li>
+<li><a href="http://emmering.blogspot.com">Hollandaise</a></li>
+<li><a href="http://homepage.univie.ac.at/horst.prillinger/blog/">Horst Prillinger</a></li>
+<li><a href="http://idiocentrism.com/">Idiocentrism</a></li>
+<li><a href="http://headheeb.blogmosis.com">Jonathan Edelstein</a></li>
+<li><a href="http://www.blarg.net/~minsq/NoCameras.htm">Jurjen Smies: No Cameras</a></li>
+<li><a href="http://kommissariecuriosa.blogspot.com/">Kommisarie F. Curiosa</a></li>
+<li><a href="http://parisblagueur.blogspot.com/">Le Blagueur Ã  Paris</a></li>
+<li><a href="http://livingwithcaucasians.blogspot.com/">Living With Caucasians</a></li>
+<li><a href="http://lostintransit.org">Lost in Transit</a></li>
+<li><a href="http://www.lyssas-lounge.de/peepshow/">Lyssas Lounge</a></li>
+<li><a href="http://blogofpandora.blogspot.com">Mats Lind</a></li>
+<li><a href="http://www.misbehaving.net">misbehaving.net</a></li>
+<li><a href="http://www.spamula.net/blog/">mister aitch</a></li>
+<li><a href="http://johnsmyth.ie/blog/">North Atlantic Skyline</a></li>
+<li><a href="http://pedantry.fistfulofeuros.net/">Pedantry</a></li>
+<li><a href="http://www.20six.fr/Phersu">Phersu</a></li>
+<li><a href="http://www.politicaltheory.info/">Political Theory Daily Review</a></li>
+<li><a href="http://european-democracy.org/">Reflections on European democracy</a></li>
+<li><a href="http://www.scottymac.blogspot.com/">Scotty Mac</a></li>
+<li><a href="http://sueandnotu.blogspot.com/">SueAndNotU</a></li>
+<li><a href="http://www.telos-eu.com/en/">Telos</a></li>
+<li><a href="http://tharyps.blogspot.com">Tharyps the Molossian</a></li>
+<li><a href="http://6thinternational.org">The 6th International</a></li>
+<li><a href="http://geffen.blogspot.com/">The Bonassus</a></li>
+<li><a href="http://transatlanticassembly.blogspot.com/">The TransAtlantic Assembly</a></li>
+<li><a href="http://youngfogey.blogspot.com/">The Young Fogey</a></li>
+<li><a href="http://tomgriffin.typepad.com/">Tom Griffin</a></li>
+<li><a href="http://nickbarlow.com/blog">What You Can Get Away With</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-42" class="widget widget_links"><h3 class="widget-title">Scattered and sundry</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://arunwithaview.wordpress.com/">Arun with a View</a></li>
+<li><a href="http://cep.rhul.ac.uk/cep-blog/">Centre for European Politics blog</a></li>
+<li><a href="http://centreforeuropeanreform.blogspot.com">Centre for european reform blog</a></li>
+<li><a href="http://www.demsoc.org/">Democratic Society Blog</a></li>
+<li><a href="http://erkansaka.net/">Erkan&#8217;s field diary</a></li>
+<li><a href="http://www.energypolicyblog.com/">EU Energy Policy Blog</a></li>
+<li><a href="http://www.jcm.org.uk/blog/">Europhobia</a></li>
+<li><a href="http://www.theeuros.eu/spip.php?lang=en">Euros du village</a></li>
+<li><a href="http://felixsalmon.tumblr.com/">felix salmon&#039;s tumblr</a></li>
+<li><a href="http://blogs.ft.com/rachmanblog/">Gideon Rachman</a></li>
+<li><a href="http://blog.jacobchristensen.name/">Jacob Christensen</a></li>
+<li><a href="http://blog.jan-seifert.de">Jan&#8217;s EU Blog</a></li>
+<li><a href="http://www.perpetualpieces.org/">Perpetual Pieces</a></li>
+<li><a href="http://commonagpolicy.blogspot.com/">Wyn Grant&#039;s Common Agricultural Policy</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-82" class="widget widget_links"><h3 class="widget-title">Scholarship</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://eiop.or.at/erpa/">European Research Papers Archive</a></li>
+<li><a href="http://eiop.or.at/euroint/">European Resources</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-59" class="widget widget_links"><h3 class="widget-title">Slice of Life</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.parhasard.net/">Aidan Kehoe</a></li>
+<li><a href="http://www.belgianwaffling.com/">Belgian Waffling</a></li>
+<li><a href="http://expatria.typepad.com/">Claudia Muir: Expatria</a></li>
+<li><a href="http://diamondgeezer.blogspot.com">Diamond Geezer</a></li>
+<li><a href="http://dispatchesfromfrance.blogspot.com/">Dispatches From France</a></li>
+<li><a href="http://www.francisstrand.blogspot.com/">Francis Strand</a></li>
+<li><a href="http://girlwithaonetrackmind.blogspot.com/">Girl with a one-track mind</a></li>
+<li><a href="http://www.livejournal.com/users/iainjcoleman/">Iain J Coleman</a></li>
+<li><a href="http://www.icelandweatherreport.com/">Iceland Weather Report</a></li>
+<li><a href="http://www.isoglossia.com/">Isoglossia</a></li>
+<li><a href="http://privatesecretdiary.com/">Johnny Billericay</a></li>
+<li><a href="http://www.french-word-a-day.com/">Kristin Espinasse</a></li>
+<li><a href="http://www.locussolus.com">Locus Solus</a></li>
+<li><a href="http://loxias.wordpress.com/">Loxias</a></li>
+<li><a href="http://www.lucypepper.com/stuff/">Lucy Pepper</a></li>
+<li><a href="http://maitresse.typepad.com/">Maitresse</a></li>
+<li><a href="http://www.myboyfriendisatwat.com/">My Boyfriend Is A Twat</a></li>
+<li><a href="http://www.nakedblog.com/">Peter Maling</a></li>
+<li><a href="http://www.petiteanglaise.com">petite anglaise</a></li>
+<li><a href="http://randomreality.blogware.com/">Random Acts of Reality</a></li>
+<li><a href="http://rhiansalmon.com/">Rhian Salmon</a></li>
+<li><a href="http://rottenindenmark.wordpress.com/">Rottin&#039; In Denmark</a></li>
+<li><a href="http://ninacamic.blogspot.com">The Other Side of the Ocean</a></li>
+<li><a href="http://www.troubled-diva.com/">Troubled Diva</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-70" class="widget widget_links"><h3 class="widget-title">Some blogs, unsorted</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://lmcnelly15.blogspot.com/">100 Films</a></li>
+<li><a href="http://11d.typepad.com/">11D</a></li>
+<li><a href="http://www.3quarksdaily.com/">3 Quarks Daily</a></li>
+<li><a href="http://amygdalagf.blogspot.com/">Amygdala</a></li>
+<li><a href="http://www.aldaily.com/">Arts &amp; Letters Daily</a></li>
+<li><a href="http://www.cscs.umich.edu/~crshalizi/weblog/">Cosma Shalizi</a></li>
+<li><a href="http://hasbrouck.org/blog">Edward Hasbrouck</a></li>
+<li><a href="http://fafblog.blogspot.com">Fafblog</a></li>
+<li><a href="http://www.gridskipper.com/">Gridskipper</a></li>
+<li><a href="http://thehappybooker.blogs.com/the_happy_booker/">Happy Booker</a></li>
+<li><a href="http://examinedlife.typepad.com/johnbelle/">John and Belle Have A Blog</a></li>
+<li><a href="http://www.languagehat.com/">Language Hat</a></li>
+<li><a href="http://www.longstoryshortpier.com/">Long Story, Short Pier</a></li>
+<li><a href="http://nielsenhayden.com/makinglight">Making Light</a></li>
+<li><a href="http://mattwelch.com/warblog.html">Matt Welch</a></li>
+<li><a href="http://www.nobody-knows-anything.com">Nobody Knows Anything</a></li>
+<li><a href="http://buggydoo.blogspot.com">One Good Thing</a></li>
+<li><a href="http://tomburka.com">Opinions You Should Have</a></li>
+<li><a href="http://scienceblogs.com/pharyngula/">Pharyngula</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-78" class="widget widget_links"><h3 class="widget-title">Some links, unsorted</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.bepress.com/ev/">Economists&#8217; Voice</a></li>
+<li><a href="http://www.expatica.com/">Expatica</a></li>
+<li><a href="http://www.friendsofeurope.org/">Friends of Europe</a></li>
+<li><a href="http://www.ministryofpropaganda.co.uk/blogging-abroad.shtml">List of Expat bloggers</a></li>
+<li><a href="http://www.opendemocracy.net/home/index.jsp">openDemocracy</a></li>
+<li><a href="http://stephenfry.com/blog">Stephen Fry</a></li>
+<li><a href="http://exiledonline.com/">the eXile</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-48" class="widget widget_links"><h3 class="widget-title">Southeastern Europe</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://balkanalysis.com">Balkanalysis.com</a></li>
+<li><a href="http://www.belgrade.org.yu/">Belgrade 2.0</a></li>
+<li><a href="http://hdtd.typepad.com/hdtd/">Halfway down the Danube</a></li>
+<li><a href="http://istanbulcalling.blogspot.com/">Istanbul Calling</a></li>
+<li><a href="http://istanbulnotes.wordpress.com/">Istanbul Notes</a></li>
+<li><a href="http://gerodimos.blogspot.com/">Me Against the Keyboard</a></li>
+<li><a href="http://www.neweurasia.net/">neweurasia.net</a></li>
+<li><a href="http://ourmanintirana.blogspot.com/">Our Man in Tirana</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-40" class="widget widget_links"><h3 class="widget-title">Special Mention</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.j-bradford-delong.net/movable_type/">Brad DeLong</a></li>
+<li><a href="http://www.crookedtimber.org/">Crooked Timber</a></li>
+<li><a href="http://piginawig.diaryland.com/">Des von Bladet</a></li>
+<li><a href="http://www.eurotrib.com">European Tribune</a></li>
+<li><a href="http://www.francisstrand.blogspot.com/">Francis Strand</a></li>
+<li><a href="http://sluggerotoole.com">Mick Fealty + various</a></li>
+<li><a href="http://www.jcm.org.uk/blog">Nosemonkey</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-60" class="widget widget_links"><h3 class="widget-title">Techstuff</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.456bereastreet.com/">456 Berea Street</a></li>
+<li><a href="http://blog.benhammersley.com/">Ben Hammersley</a></li>
+<li><a href="http://ogleearth.com">Ogle Earth</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-51" class="widget widget_links"><h3 class="widget-title">The Isles</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://pollingreport.co.uk/blog/index.php">Anthony Wells</a></li>
+<li><a href="http://bensix.wordpress.com/">Back Towards The Locus</a></li>
+<li><a href="http://www.boriswatch.co.uk/">Boris Watch</a></li>
+<li><a href="http://www.chickyog.net/">Chicken Yoghurt</a></li>
+<li><a href="http://www.matthewturner.co.uk/Blog/">Matt T</a></li>
+<li><a href="http://www.ministryoftruth.me.uk/">Ministry of Truth</a></li>
+<li><a href="http://rachelnorthlondon.blogspot.com/">Rachel from North London</a></li>
+<li><a href="http://sluggerotoole.com">Slugger O&#8217;Toole</a></li>
+<li><a href="http://www.stableandprincipled.com/">Stable and Principled</a></li>
+<li><a href="http://thesharpener.net">The Sharpener</a></li>
+<li><a href="http://bloggerheads.com/">Tim Ireland</a></li>
+<li><a href="http://unspeak.net/">Unspeak</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-81" class="widget widget_links"><h3 class="widget-title">Think Tanks</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.ceps.be">Centre for European Policy Studies</a></li>
+<li><a href="http://www.cer.org.uk/">Centre for European Reform</a></li>
+<li><a href="http://www.cne.be">Centre for the New Europe</a></li>
+<li><a href="http://www.eupolicynetwork.org.uk/home.htm">EU Policy Network</a></li>
+<li><a href="http://www.eipa.nl/home/eipa.htm">European Institute of Public Administration</a></li>
+<li><a href="http://globalab.wordpress.com/about/">Globalab</a></li>
+<li><a href="http://www.ippr.org.uk/home/">IIPR (UK)</a></li>
+<li><a href="http://www.theepc.be/">The European Policy Centre</a></li>
+<li><a href="http://www.fedtrust.co.uk/">The Federal Trust</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-68" class="widget widget_links"><h3 class="widget-title">This and that</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.almostadiary.de/">Almost A Diary</a></li>
+<li><a href="http://katsaris.livejournal.com/">Aris Katsaris</a></li>
+<li><a href="http://blogfonte.blogspot.com/">Blogfonte</a></li>
+<li><a href="http://www.accelerando.org">Charlie Stross</a></li>
+<li><a href="http://felixsalmon.com/">Felix Salmon</a></li>
+<li><a href="http://www.gavinsblog.com/">Gavin&#8217;s Blog</a></li>
+<li><a href="http://www.thewormbook.com/helmintholog">Helmintholog</a></li>
+<li><a href="http://metamorphosism.com/">metamorphosism</a></li>
+<li><a href="http://mutantcat.blogspot.com/">Mutant Cat</a></li>
+<li><a href="http://neilgaiman.com/journal/">Neil Gaiman</a></li>
+<li><a href="http://reinderdijkhuis.com/wordpress/">Reinder Dijkhuis</a></li>
+<li><a href="http://riabacon.com/">Ria Bacon</a></li>
+<li><a href="http://papascott.de">Scott Hanson</a></li>
+<li><a href="http://sodazitron.blogger.de">Sodazitron</a></li>
+<li><a href="http://stefangeens.com">Stefan Geens</a></li>
+<li><a href="http://thisboguspoetry.blogspot.com/">This Bogus Poetry</a></li>
+<li><a href="http://warrenellis.com">Warren Ellis</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-43" class="widget widget_links"><h3 class="widget-title">To Our Left</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://yorkshire-ranter.blogspot.com/">Alex Harrowell</a></li>
+<li><a href="http://bloodandtreasure.typepad.com/">Blood and Treasure</a></li>
+<li><a href="http://crookedtimber.org/">Crooked Timber</a></li>
+<li><a href="http://eurotrib.com">European Tribune</a></li>
+<li><a href="http://kenmacleod.blogspot.com">Ken Macleod</a></li>
+<li><a href="http://thecurrentmoment.wordpress.com/">The Current Moment</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-44" class="widget widget_links"><h3 class="widget-title">To Our Right</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://foreigndispatches.typepad.com">Abiola Lapite</a></li>
+<li><a href="http://bestofbothworlds.blogspot.com">Best of Both Worlds</a></li>
+<li><a href="http://blogs.ft.com/brusselsblog/">FT Brussels Blog</a></li>
+<li><a href="http://www.openeuropeblog.blogspot.com/">Open Europe</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-74" class="widget widget_links"><h3 class="widget-title">US Politics</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://yglesias.thinkprogress.org/">Matt Yglesias</a></li>
+
+	</ul>
+</aside>
+<aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>
+			<ul>
+					<li><a href='http://fistfulofeuros.net/afoe/2021/09/'>September 2021</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2021/05/'>May 2021</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2021/04/'>April 2021</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2020/02/'>February 2020</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2018/12/'>December 2018</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2018/11/'>November 2018</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2018/10/'>October 2018</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2018/09/'>September 2018</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2018/08/'>August 2018</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2018/05/'>May 2018</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2018/03/'>March 2018</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2018/01/'>January 2018</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2017/12/'>December 2017</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2017/11/'>November 2017</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2017/09/'>September 2017</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2017/03/'>March 2017</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2017/02/'>February 2017</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2017/01/'>January 2017</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2016/11/'>November 2016</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2016/07/'>July 2016</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2016/06/'>June 2016</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2016/05/'>May 2016</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2016/02/'>February 2016</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2016/01/'>January 2016</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2015/12/'>December 2015</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2015/11/'>November 2015</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2015/10/'>October 2015</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2015/09/'>September 2015</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2015/08/'>August 2015</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2015/07/'>July 2015</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2015/06/'>June 2015</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2015/05/'>May 2015</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2015/04/'>April 2015</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2015/03/'>March 2015</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2015/02/'>February 2015</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2015/01/'>January 2015</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2014/12/'>December 2014</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2014/11/'>November 2014</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2014/10/'>October 2014</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2014/09/'>September 2014</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2014/08/'>August 2014</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2014/07/'>July 2014</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2014/06/'>June 2014</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2014/05/'>May 2014</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2014/04/'>April 2014</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2014/03/'>March 2014</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2014/02/'>February 2014</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2014/01/'>January 2014</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2013/12/'>December 2013</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2013/11/'>November 2013</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2013/10/'>October 2013</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2013/09/'>September 2013</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2013/08/'>August 2013</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2013/07/'>July 2013</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2013/06/'>June 2013</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2013/05/'>May 2013</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2013/04/'>April 2013</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2013/03/'>March 2013</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2013/02/'>February 2013</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2013/01/'>January 2013</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2012/12/'>December 2012</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2012/11/'>November 2012</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2012/10/'>October 2012</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2012/09/'>September 2012</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2012/08/'>August 2012</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2012/07/'>July 2012</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2012/06/'>June 2012</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2012/05/'>May 2012</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2012/04/'>April 2012</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2012/03/'>March 2012</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2012/02/'>February 2012</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2012/01/'>January 2012</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2011/12/'>December 2011</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2011/11/'>November 2011</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2011/10/'>October 2011</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2011/09/'>September 2011</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2011/08/'>August 2011</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2011/07/'>July 2011</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2011/06/'>June 2011</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2011/05/'>May 2011</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2011/04/'>April 2011</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2011/03/'>March 2011</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2011/02/'>February 2011</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2011/01/'>January 2011</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2010/12/'>December 2010</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2010/11/'>November 2010</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2010/10/'>October 2010</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2010/09/'>September 2010</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2010/08/'>August 2010</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2010/07/'>July 2010</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2010/06/'>June 2010</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2010/05/'>May 2010</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2010/04/'>April 2010</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2010/03/'>March 2010</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2010/02/'>February 2010</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2010/01/'>January 2010</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2009/12/'>December 2009</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2009/11/'>November 2009</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2009/10/'>October 2009</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2009/09/'>September 2009</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2009/08/'>August 2009</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2009/07/'>July 2009</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2009/06/'>June 2009</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2009/05/'>May 2009</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2009/04/'>April 2009</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2009/03/'>March 2009</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2009/02/'>February 2009</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2009/01/'>January 2009</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2008/12/'>December 2008</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2008/11/'>November 2008</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2008/10/'>October 2008</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2008/09/'>September 2008</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2008/08/'>August 2008</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2008/07/'>July 2008</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2008/06/'>June 2008</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2008/05/'>May 2008</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2008/04/'>April 2008</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2008/03/'>March 2008</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2008/02/'>February 2008</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2008/01/'>January 2008</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2007/12/'>December 2007</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2007/11/'>November 2007</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2007/10/'>October 2007</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2007/09/'>September 2007</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2007/08/'>August 2007</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2007/07/'>July 2007</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2007/06/'>June 2007</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2007/05/'>May 2007</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2007/04/'>April 2007</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2007/03/'>March 2007</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2007/02/'>February 2007</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2007/01/'>January 2007</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2006/12/'>December 2006</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2006/11/'>November 2006</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2006/10/'>October 2006</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2006/09/'>September 2006</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2006/08/'>August 2006</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2006/07/'>July 2006</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2006/06/'>June 2006</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2006/05/'>May 2006</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2006/04/'>April 2006</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2006/03/'>March 2006</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2006/02/'>February 2006</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2006/01/'>January 2006</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2005/12/'>December 2005</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2005/11/'>November 2005</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2005/10/'>October 2005</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2005/09/'>September 2005</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2005/08/'>August 2005</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2005/07/'>July 2005</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2005/06/'>June 2005</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2005/05/'>May 2005</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2005/04/'>April 2005</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2005/03/'>March 2005</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2005/02/'>February 2005</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2005/01/'>January 2005</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2004/12/'>December 2004</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2004/11/'>November 2004</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2004/10/'>October 2004</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2004/09/'>September 2004</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2004/08/'>August 2004</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2004/07/'>July 2004</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2004/06/'>June 2004</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2004/05/'>May 2004</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2004/04/'>April 2004</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2004/03/'>March 2004</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2004/02/'>February 2004</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2004/01/'>January 2004</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2003/12/'>December 2003</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2003/11/'>November 2003</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2003/10/'>October 2003</a></li>
+	<li><a href='http://fistfulofeuros.net/afoe/2003/09/'>September 2003</a></li>
+			</ul>
+
+			</aside>		</div><!-- #secondary .widget-area -->
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+
+			<div id="site-generator">
+												<a href="https://wordpress.org/" class="imprint" title="Semantic Personal Publishing Platform">
+					Proudly powered by WordPress				</a>
+			</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- Lightbox Plus Colorbox v2.7.2/1.5.9 - 2013.01.24 - Message: 0-->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({speed:350,initialWidth:"300",initialHeight:"100",opacity:0.8,loop:false,scrolling:false,escKey:false,arrowKey:false,top:false,right:false,bottom:false,left:false});
+});
+</script>
+<script type='text/javascript' src='http://fistfulofeuros.net/wordpress/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9' id='jquery-colorbox-js'></script>
+<script type='text/javascript' src='http://fistfulofeuros.net/wordpress/wp-includes/js/wp-embed.min.js?ver=5.8.1' id='wp-embed-js'></script>
+
+</body>
+</html>
